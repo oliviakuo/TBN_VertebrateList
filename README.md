@@ -12,7 +12,7 @@
 Scientific name_TBN| 台灣生物多樣性網絡(TBN)使用之學名
 Scientific name_PSL| 林務局公告之保育類名錄使用學名
 Chinese common name_PSL|林務局保育類名錄使用中文名
-prtected_status|保育等級 <br />(包含I:瀕臨絕種動物/II:珍貴稀有的保育類動物/III:其它應予保育的野生動物)
+protected_status|保育等級 <br />(包含I:瀕臨絕種動物/II:珍貴稀有的保育類動物/III:其它應予保育的野生動物)
 Version_1080109|保育等級版本
 tp_tid|台灣生物多樣性網絡(TBN)之物種識別碼
 taibnet_namecode|台灣物種名錄(TaiCoL)之物種識別碼
