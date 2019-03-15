@@ -32,7 +32,7 @@ rank|分類階層(包含order目/family科/genus屬/species種/infraspecies種�
   **Version logs** <br />
   v1.0 20190315 <br />
 
-  Taiwan_redlist_ v1.0(TBN).xlsx名錄內容包含 <br />
+  taiwan_redlist_ v1.0(TBN).xlsx名錄內容包含 <br />
   
 欄位名稱| 欄位內容
 ------------------ | --------------
@@ -59,7 +59,7 @@ uuid_species|台灣生物多樣性網絡(TBN)使用之流水號
 rank_species|分類階層(包含order目/family科/genus屬/species種)
 
   
-  *本名錄台灣紅皮書評估等級參考行政院農業委員會特有生物研究中心及行政院農業委員會林務局發行之2016台灣紅皮書名錄(1.Species list(redlist_Taiwan_species_v2)20190201/ 2.Species list(redlist_Taiwan_infraspecies_v2)20190201)<br />
+  *本名錄台灣紅皮書評估等級參考行政院農業委員會特有生物研究中心及行政院農業委員會林務局發行之2016台灣紅皮書名錄(1.species list(redlist_Taiwan_species_v2)20190201/ 2.species list(redlist_Taiwan_infraspecies_v2)20190201)<br />
   
   
   
