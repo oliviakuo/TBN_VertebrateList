@@ -75,10 +75,11 @@ rank_species|分類階層(包含order目/family科/genus屬/species種)
   
 欄位名稱| 欄位內容
 ------------------ | --------------
-Scientific name_IUCN|國際自然保護聯盟(IUCN)使用之學名
+Scientific name_IUCN|國際自然保護聯盟(IUCN)紅皮書使用之學名
 Chinese common name|台灣生物多樣性網絡(TBN)使用之中文名
-category_IUCN|國際自然保護聯盟(IUCN)評估等級<br />(包含:CR:極危/EN:瀕危/VU:易危/NT:接近受脅/LC:暫無危機/DD:資料缺乏)
-criteria_IUCN|國際自然保護聯盟(IUCN)評估標準
+category_IUCN|國際自然保護聯盟(IUCN)紅皮書評估等級<br />(包含:CR:極危/EN:瀕危/VU:易危/NT:接近受脅/LC:暫無危機/DD:資料缺乏)
+Version|國際自然保護聯盟(IUCN)紅皮書評估等級版本
+criteria_IUCN|國際自然保護聯盟(IUCN)紅皮書評估標準
 tp_tid|台灣生物多樣性網絡(TBN)之物種識別碼
 ra_tid|台灣生物多樣性網絡(TBN)內部之物種識別碼
 namecode|台灣物種名錄(TaiCoL)之物種識別碼
