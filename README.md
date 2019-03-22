@@ -5,7 +5,7 @@
   **Version logs** <br />
   v1.0 20190312 <br />
 
-  protected_species_list _v1.0(TBN).xlsx名錄內容包含 <br />
+  protected_species_list_TBN_v1.xlsx名錄內容包含 <br />
   
 欄位名稱| 欄位內容
 ------------------ | --------------
@@ -20,7 +20,7 @@ uuid|台灣生物多樣性網絡(TBN)使用之流水號
 protect species list number|林務局保育類名錄物種編號
 rank|分類階層(包含order目/family科/genus屬/species種/infraspecies種下)
   
-  *本名錄保育類等級參考行政院農業委員會108年1月9日公告修正之保育類名錄(protected Species list_20190118_v1.xlsx)<br />
+  *本名錄保育類等級參考行政院農業委員會108年1月9日公告修正之保育類名錄protected_species list_v1.xlsx<br />
 
 ***
 
@@ -32,7 +32,7 @@ rank|分類階層(包含order目/family科/genus屬/species種/infraspecies種�
   **Version logs** <br />
   v1.0 20190315 <br />
 
-  taiwan_redlist_ v1.0(TBN).xlsx名錄內容包含 <br />
+  Taiwan_redlist_TBN_v1.xlsx名錄內容包含 <br />
   
 欄位名稱| 欄位內容
 ------------------ | --------------
@@ -59,7 +59,7 @@ uuid_species|台灣生物多樣性網絡(TBN)使用之流水號
 rank_species|分類階層(包含order目/family科/genus屬/species種)
 
   
-  *本名錄台灣紅皮書評估等級參考行政院農業委員會特有生物研究中心及行政院農業委員會林務局發行之2016台灣紅皮書名錄(1.species list(redlist_Taiwan_species_v2)20190201/ 2.species list(redlist_Taiwan_infraspecies_v2)20190201)<br />
+  *本名錄台灣紅皮書評估等級參考行政院農業委員會特有生物研究中心及行政院農業委員會林務局發行之2016台灣紅皮書名錄 1.Taiwan_redlist_infraspecies_v1.xlsx/ 2.Taiwan_redlist_species_v1.xlsx<br />
 
 ***
 
@@ -71,7 +71,7 @@ rank_species|分類階層(包含order目/family科/genus屬/species種)
   **Version logs** <br />
   v1.0 20190315 <br />
 
-  iucn_redlist _v1.2(TBN).xlsx名錄內容包含 <br />
+  iucn_redlist_TBN_v1.1.xlsx名錄內容包含 <br />
   
 欄位名稱| 欄位內容
 ------------------ | --------------
@@ -87,7 +87,7 @@ uuid|台灣生物多樣性網絡(TBN)使用之流水號
 rank|分類階層(包含order目/family科/genus屬/species種/infraspecies種下)
   
   
-  *本名錄國際自然保護聯盟(IUCN)評估等級參考IUCN國際紅皮書(iucn_redlist_20190129 _v1.0.xlsx)<br />
+  *本名錄國際自然保護聯盟(IUCN)評估等級參考IUCN國際紅皮書iucn_redlist_v1.1.xlsx<br />
 
 
 ***
@@ -98,7 +98,7 @@ rank|分類階層(包含order目/family科/genus屬/species種/infraspecies種�
   **Version logs** <br />
   v1.0 20190318 <br />
 
-  iucn_redlist _v1.2(TBN).xlsx名錄內容包含 <br />
+  terrestrial_vertebrates_species_list_TBN.xlsx名錄內容包含 <br />
   
 欄位名稱| 欄位內容
 ------------------ | --------------
