@@ -1,253 +1,253 @@
-"","Scientific.name_TBN","Scientific.name_PSL","Chinese.common.name_PSL","protected_status","Version","tp_tid","taibnet_namecode","uuid","protect.species.list.number","rank","X","X.1","X.2"
-"1","Capricornis swinhoei","Capricornis swinhoei","è‡ºç£é‡å±±ç¾Š(è‡ºç£é•·é¬ƒå±±ç¾Š)","III","v1080109",416105,416105,"c6b50b1a-8e3b-4729-ba20-73faaf3d9250",15,"species",NA,NA,NA
-"2","Neofelis nebulosa","Neofelis nebulosa","é›²è±¹","I","v1080109",1024882,NA,"dbf5e038-f9e6-4101-93db-baa7ad072d50",98,"species",NA,NA,NA
-"3","Herpestes urva","Herpestes urva","æ£•ç°‘è²“(é£ŸèŸ¹?)","III","v1080109",1024484,NA,"46159f00-98da-44c4-9d8a-c4876c7b2f1d",112,"species",NA,NA,NA
-"4","Lutra lutra","Lutra lutra","æ­äºæ°´çº","I","v1080109",1024697,NA,"f8947246-6152-439c-9a67-a6b1422941b4",118,"species",NA,NA,NA
-"5","Martes flavigula","Martes flavigula","é»ƒå–‰è²‚","III","v1080109",1024735,NA,"53c48060-9365-4028-92bb-cc8245f59881",122,"species",NA,NA,NA
-"6","Ursus thibetanus","Ursus thibetanus","äºæ´²é»‘ç†Š","I","v1080109",1025759,NA,"87d49346-7297-4c0d-a92e-19179e68e9d8",131,"species",NA,NA,NA
-"7","Viverricula indica","Viverricula indica","éºé¦™è²“","II","v1080109",1025768,NA,"a9e6148a-e792-4475-bba8-db50bd8759cd",137,"species",NA,NA,NA
-"8","Coelops frithii","Coelops frithii","ç„¡å°¾è‘‰é¼»è ","II","v1080109",1023992,NA,"7ec2b401-ca32-42bd-9b5a-63d61823a097",138,"species",NA,NA,NA
-"9","Manis pentadactyla pentadactyla","Manis pentadactyla pentadactyla","è‡ºç£ç©¿å±±ç”²(ä¸­åœ‹é¯ªé¯‰)","II","v1080109",1024731,NA,"12893a44-eca8-44a1-955f-970705f53bc4",188,"species",NA,NA,NA
-"10","Chimarrogale himalayica","Chimarrogale himalayica","æ°´é¼©","II","v1080109",380580,380580,"bf3f11ab-ffc4-4d05-a191-ca3f1a8dc493",259,"species",NA,NA,NA
-"11","Aix galericulata","Aix galericulata","é´›é´¦","II","v1080109",380056,380056,"76ccc3a9-51b0-4cda-9685-f997e722569c",260,"species",NA,NA,NA
-"12","Anas formosa","Anas formosa","èŠ±è‡‰é´¨(å·´é´¨)","II","v1080109",380062,380062,"91f5fda8-7899-4f78-bb37-e5a2ed2db732",264,"species",NA,NA,NA
-"13","Aythya baeri","Aythya baeri","é’é ­æ½›é´¨","II","v1080109",380074,380074,"88627d2d-13c6-4f89-976e-a31805d01c90",268,"species",NA,NA,NA
-"14","Glareola maldivarum","Glareola maldivarum","ç‡•?","III","v1080109",380162,380162,"76f2ea3c-b88e-47ad-9f6c-63ee9c65405f",280,"species",NA,NA,NA
-"15","Hydrophasianus chirurgus","Hydrophasianus chirurgus","æ°´é›‰(é›‰å°¾æ°´é›‰)","II","v1080109",380163,380163,"3ee45f50-97fe-4a84-b1a5-2e6d4d72c041",281,"species",NA,NA,NA
-"16","Rostratula benghalensis","Rostratula benghalensis","å½©é·¸","II","v1080109",420867,420867,"1b04ac59-bdc7-4e72-ae92-ce0f56107787",282,"species",NA,NA,NA
-"17","Calidris canutus","Calidris canutus","ç´…è…¹æ¿±é·¸","III","v1080109",1023790,NA,"c4807bca-e6c0-4dfa-9ae3-3b3050e85a0d",284,"species",NA,NA,NA
-"18","Limosa limosa","Limosa limosa","é»‘å°¾é·¸","III","v1080109",1024659,NA,"ff6050fa-cdd6-4ed1-9fcc-b7669c86a1b5",285,"species",NA,NA,NA
-"19","Limnodromus semipalmatus","Limnodromus semipalmatus","åŠè¹¼é·¸","III","v1080109",380230,380230,"7ed678a8-0a45-462f-a17f-7e33832907be",286,"species",NA,NA,NA
-"20","Numenius arquata","Numenius arquata","ç™½è…°æ“é·¸(å¤§æ“é·¸)","III","v1080109",1024943,NA,"2a1632b8-e6a2-41da-a4ad-786a156068e0",287,"species",NA,NA,NA
-"21","Numenius madagascariensis","Numenius madagascariensis","ç´…è…°æ“é·¸","III","v1080109",380236,380236,"e19c61df-0873-4e22-a25a-bbdfeacd1147",288,"species",NA,NA,NA
-"22","Tringa guttifer","Tringa guttifer","è«¾æ°é·¸","I","v1080109",380248,380248,"16f7a184-04b2-4511-923a-1a871fabf458",291,"species",NA,NA,NA
-"23","Calidris tenuirostris","Calidris tenuirostris","å¤§æ¿±é·¸","III","v1080109",380222,380222,"24b2424d-112c-4e12-8ee4-62d827a64693",292,"species",NA,NA,NA
-"24","Turnix sylvaticus","Turnix sylvaticus","æ—ä¸‰è¶¾é¶‰","III","v1080109",1025729,NA,"962ba8ec-b2fd-4790-a327-1cbfae41ffba",293,"species",NA,NA,NA
-"25","Egretta eulophotes","Egretta eulophotes","å”ç™½é·º","II","v1080109",380128,380128,"f5dfc0e5-6e0e-49a6-8b5e-d1c17e8c246d",294,"species",NA,NA,NA
-"26","Gorsachius goisagi","Gorsachius goisagi","éº»é·º","III","v1080109",380132,380132,"6dffa02d-95b8-4d06-b509-dda361173a01",295,"species",NA,NA,NA
-"27","Ciconia boyciana","Ciconia boyciana","æ±æ–¹ç™½é¸›","I","v1080109",404565,404565,"8090520b-78f4-4b73-a3cc-177ce26e0b62",297,"species",NA,NA,NA
-"28","Ciconia nigra","Ciconia nigra","é»‘é¸›","II","v1080109",380153,380153,"29c72080-8d02-4c07-bda6-dddb6d6218b4",298,"species",NA,NA,NA
-"29","Nipponia nippon","Nipponia nippon","æœ±?","I","v1080109",380257,380257,"0c97ee83-eb22-4e9f-bba9-6e23a7891727",305,"species",NA,NA,NA
-"30","Platalea leucorodia","Platalea leucorodia","ç™½çµé·º","II","v1080109",1025242,NA,"bf45c9ae-3c37-41d5-932a-9699c65c3416",306,"species",NA,NA,NA
-"31","Platalea minor","Platalea minor","é»‘é¢çµé·º","I","v1080109",380259,380259,"11f17de2-5ee5-4c69-8672-06a46d4283f3",307,"species",NA,NA,NA
-"32","Threskiornis melanocephalus","Threskiornis melanocephalus","é»‘é ­ç™½?","II","v1080109",380260,380260,"c7a9504f-cf0c-4dca-855f-c0fb46504bdd",308,"species",NA,NA,NA
-"33","Treron formosae","Treron formosae","ç´…é ­ç¶ é³©","II","v1080109",1025693,NA,"dc430885-79f2-4914-9380-ccad328bc246",313,"species",NA,NA,NA
-"34","Macropygia tenuirostris","Macropygia tenuirostris","é•·å°¾é³©","III","v1080109",1024716,NA,"43ae38ec-0091-45b8-ab7d-a10d1d3cd430",314,"species",NA,NA,NA
-"35","Accipiter gularis","Accipiter gularis","æ—¥æœ¬æ¾é›€é·¹","II","v1080109",1023423,NA,"41ce80a3-d156-4a32-8d50-cbd9938eb8cb",328,"species",NA,NA,NA
-"36","Accipiter nisus","Accipiter nisus","åŒ—é›€é·¹","II","v1080109",1023424,NA,"a0a98d9d-fef5-47ac-afa8-a52cebadfb47",329,"species",NA,NA,NA
-"37","Accipiter soloensis","Accipiter soloensis","èµ¤è…¹é·¹","II","v1080109",380099,380099,"361a3560-d085-4fd2-b6f6-521f4c8049a5",330,"species",NA,NA,NA
-"38","Accipiter trivirgatus","Accipiter trivirgatus","é³³é ­è’¼é·¹","II","v1080109",1023425,NA,"c3d7eb24-c683-40c1-a077-93141d28ae33",331,"species",NA,NA,NA
-"39","Accipiter virgatus","Accipiter virgatus","æ¾é›€é·¹(é›€é·¹)","II","v1080109",1023426,NA,"828253a2-1f00-401b-b5c9-f3a37791600a",332,"species",NA,NA,NA
-"40","Butastur indicus","Butastur indicus","ç°é¢éµŸé·¹(ç°é¢é·²)","II","v1080109",380105,380105,"dff00aa5-f437-45cb-aefb-14ce0ecb9a75",335,"species",NA,NA,NA
-"41","Circus cyaneus","Circus cyaneus","ç°æ¾¤éµŸ(ç°é·‚)","II","v1080109",1023965,NA,"70588a08-4194-4b68-83c5-451567799eb2",338,"species",NA,NA,NA
-"42","Circus melanoleucos","Circus melanoleucos","èŠ±æ¾¤éµŸ(éµ²é·‚)","II","v1080109",380109,380109,"001e4cc4-f14f-4139-b015-cd5267d786cc",339,"species",NA,NA,NA
-"43","Circus spilonotus","Circus spilonotus","æ¾¤éµŸ(æ±æ–¹æ¾¤éµŸã€æ±æ–¹æ¾¤é·‚) ","II","v1080109",1023966,NA,"e72144b2-4d05-44c7-a93d-063fbae7c6e5",340,"species",NA,NA,NA
-"44","Elanus caeruleus","Elanus caeruleus","é»‘ç¿…é³¶","II","v1080109",1024209,NA,"ad5b2b40-aad1-43d5-8963-708d73adc98a",341,"species",NA,NA,NA
-"45","Haliaeetus albicilla","Haliaeetus albicilla","ç™½å°¾æµ·éµ°","I","v1080109",421135,421135,"f0c63a8c-a1f7-4163-9e34-c6e4c4327a50",342,"species",NA,NA,NA
-"46","Milvus migrans","Milvus migrans","é»‘é³¶(è€é·¹)","II","v1080109",1024812,NA,"3343e3a4-9f28-4f12-81c3-44853ece0b9c",345,"species",NA,NA,NA
-"47","Pandion haliaetus","Pandion haliaetus","é­šé·¹","II","v1080109",1025068,NA,"82702ec4-1655-4f43-83b8-cca275dad7d8",346,"species",NA,NA,NA
-"48","Pernis ptilorhynchus","Pernis ptilorhynchus","æ±æ–¹èœ‚é·¹(èœ‚é·¹ã€é›•é ­é·¹)","II","v1080109",1025168,NA,"19b1cc22-5e72-4376-b878-eeea24879682",347,"species",NA,NA,NA
-"49","Spilornis cheela","Spilornis cheela","å¤§å† é·²","II","v1080109",1025516,NA,"280c0c12-eb54-4c01-a10e-b7232b58de16",349,"species",NA,NA,NA
-"50","Nisaetus nipalensis","Nisaetus nipalensis","èµ«æ°è§’é·¹(ç†Šé·¹)","I","v1080109",1024929,NA,"9401a1ca-328b-4645-8c6b-3578cfd7c1b8",350,"species",NA,NA,NA
-"51","Falco peregrinus","Falco peregrinus","éŠéš¼(éš¼)","II","v1080109",1024354,NA,"6d15baa8-ebdc-48e6-b0e8-76836acbd62e",356,"species",NA,NA,NA
-"52","Falco subbuteo","Falco subbuteo","ç‡•éš¼","II","v1080109",1024355,NA,"01dce462-da11-40ac-93f7-05028587f1cf",359,"species",NA,NA,NA
-"53","Falco tinnunculus","Falco tinnunculus","ç´…éš¼","II","v1080109",1024356,NA,"9f5661de-c843-4aae-9ac9-09c34263aef2",360,"species",NA,NA,NA
-"54","Arborophila crudigularis","Arborophila crudigularis","è‡ºç£å±±é·“é´£(æ·±å±±ç«¹é›)","III","v1080109",380285,380285,"e17f3444-d8de-4a62-b4af-9888b58c4f93",368,"species",NA,NA,NA
-"55","Lophura swinhoii","Lophura swinhoii","è—è…¹é·´","II","v1080109",380289,380289,"ef457bab-7f1f-4313-8282-75084241c775",381,"species",NA,NA,NA
-"56","Phasianus colchicus","Phasianus colchicus","ç’°é ¸é›‰","II","v1080109",1025193,NA,"0fb91a1c-ded5-47cc-882e-fba220e03c26",383,"species",NA,NA,NA
-"57","Grus japonensis","Grus japonensis","ä¸¹é ‚é¶´","I","v1080109",380293,380293,"bc2b5442-7a76-49bb-99a5-65631f2175fc",403,"species",NA,NA,NA
-"58","Grus monacha","Grus monacha","ç™½é ­é¶´","I","v1080109",380294,380294,"943a9b58-5627-41a3-8794-ee25b5165d7c",405,"species",NA,NA,NA
-"59","Gallicrex cinerea","Gallicrex cinerea","è‘£é›","III","v1080109",380298,380298,"e67a95bb-ad16-4e67-b2a8-d962efd5f30f",414,"species",NA,NA,NA
-"60","Coracina macei","Coracina macei","èŠ±ç¿…å±±æ¤’é³¥","II","v1080109",1024015,NA,"a0f13f22-2ae9-4d61-aede-8b6862fcf869",417,"species",NA,NA,NA
-"61","Urocissa caerulea","Urocissa caerulea","è‡ºç£è—éµ²","III","v1080109",380336,380336,"70840ef4-f982-4e5f-8691-2f7f961831e1",418,"species",NA,NA,NA
-"62","Emberiza sulphurata","Emberiza sulphurata","é‡?(ç¹¡çœ¼?)","II","v1080109",404581,404581,"7d6d0434-7ed4-48d3-92bb-21dc1e5cb97c",422,"species",NA,NA,NA
-"63","Emberiza aureola","Emberiza aureola","é‡‘?","II","v1080109",1024219,NA,"1a8b7d76-debb-4ed3-abf1-5c5125b6025f",424,"species",NA,NA,NA
-"64","Lonchura atricapilla","Lonchura atricapilla","é»‘é ­æ–‡é³¥","III","v1080109",1024676,NA,"f3d89a59-01a5-4c8a-bff2-12d103301bc8",430,"species",NA,NA,NA
-"65","Carpodacus formosanus","Carpodacus formosanus","è‡ºç£æœ±é›€","III","v1080109",425192,425192,"9948f41b-fc69-4e6f-849e-e8c2dacd825f",433,"species",NA,NA,NA
-"66","Prunella collaris","Prunella collaris","å²©é·š","III","v1080109",1025318,NA,"8d00d5b2-2fb7-49de-b53c-e7f0209ecbaf",434,"species",NA,NA,NA
-"67","Lanius cristatus","Lanius cristatus","ç´…å°¾ä¼¯å‹","III","v1080109",1024598,NA,"ff20ba0f-22a5-448f-b6ff-134434b50c84",437,"species",NA,NA,NA
-"68","Actinodura morrisoniana","Actinodura morrisoniana","ç´‹ç¿¼ç•«çœ‰","III","v1080109",380455,380455,"a28f4753-860e-4e48-a23c-7510f9e29bff",438,"species",NA,NA,NA
-"69","Garrulax canorus","Garrulax canorus","ç•«çœ‰","II","v1080109",1024395,NA,"0b16d184-e6e6-4fcf-a1f5-2ddbd8ca43bd",439,"species",NA,NA,NA
-"70","Garrulax taewanus","Garrulax taewanus","è‡ºç£ç•«çœ‰","II","v1080109",404589,404589,"f75d0c53-2b2c-4a20-aa79-d03c5f8a9fd3",440,"species",NA,NA,NA
-"71","Ianthocincla poecilorhyncha","Ianthocincla poecilorhyncha","æ£•å™ªçœ‰(ç«¹é³¥)","II","v1080109",428597,428597,"a2882575-aa64-40f6-8988-2bd95dafd495",441,"species",NA,NA,NA
-"72","Ianthocincla ruficeps","Ianthocincla ruficeps","ç™½å–‰å™ªçœ‰(ç™½å–‰ç¬‘é¶‡)","II","v1080109",428595,428595,"3a87a4f1-eefd-4105-b95b-b9006b24ccdd",442,"species",NA,NA,NA
-"73","Liocichla steerii","Liocichla steerii","é»ƒèƒ¸è—ªçœ‰","III","v1080109",380468,380468,"b3ebff46-3b98-4252-aaaf-5bb401ab46cd",444,"species",NA,NA,NA
-"74","Heterophasia auricularis","Heterophasia auricularis","ç™½è€³ç•«çœ‰","III","v1080109",380467,380467,"84e5026b-061f-467f-8e4e-a38e7fb29026",445,"species",NA,NA,NA
-"75","Terpsiphone atrocaudata","Terpsiphone atrocaudata","ç´«å£½å¸¶(ç¶¬å¸¶é³¥)","II","v1080109",1025642,NA,"4fe88bf7-7e84-4d82-bc5a-806cbcaff6e3",447,"species",NA,NA,NA
-"76","Enicurus scouleri","Enicurus scouleri","å°å‰ªå°¾","II","v1080109",1024234,NA,"dede6677-498b-4ecf-9cfd-7098ff3207b1",452,"species",NA,NA,NA
-"77","Niltava vivida","Niltava vivida","é»ƒè…¹ç‰ç’ƒ","III","v1080109",1024921,NA,"61a4f693-98bf-428f-847d-2ed004f7cbaf",453,"species",NA,NA,NA
-"78","Phoenicurus fuliginosus","Phoenicurus fuliginosus","é‰›è‰²æ°´é¶‡","III","v1080109",1025204,NA,"105e0a46-e9b2-4e6b-802b-df6b8504ec20",454,"species",NA,NA,NA
-"79","Tarsiger indicus","Tarsiger indicus","ç™½çœ‰æ—é´","III","v1080109",1025629,NA,"f090cb1d-e3e0-476c-a170-d4d907510118",457,"species",NA,NA,NA
-"80","Tarsiger johnstoniae","Tarsiger johnstoniae","æ —èƒŒæ—é´","III","v1080109",419684,419684,"2a938a10-e730-444a-93c2-93c753907c31",458,"species",NA,NA,NA
-"81","Oriolus chinensis","Oriolus chinensis","é»ƒé¸","II","v1080109",1025011,NA,"da97cd9a-686f-4f3b-94a9-1623ab914351",459,"species",NA,NA,NA
-"82","Oriolus traillii","Oriolus traillii","æœ±é¸","II","v1080109",1025012,NA,"c6e1b358-4b60-4303-9e60-93d3076d76fb",460,"species",NA,NA,NA
-"83","Parus monticolus","Parus monticolus","ç¶ èƒŒå±±é›€(é’èƒŒå±±é›€)","III","v1080109",1025134,NA,"45fa8681-3a7e-4a66-841b-7cf9da482b9e",463,"species",NA,NA,NA
-"84","Periparus ater","Periparus ater","ç…¤å±±é›€","III","v1080109",1025162,NA,"6da20db4-9529-42c7-991d-b67f8e37a6be",464,"species",NA,NA,NA
-"85","Sittiparus castaneoventris","Sittiparus castaneoventris","èµ¤è…¹å±±é›€","II","v1080109",432166,432166,"b64554fc-0c0a-4ade-9e0d-5eb3cd84b0e7",465,"species",NA,NA,NA
-"86","Passer rutilans","Passer rutilans","å±±éº»é›€","I","v1080109",1025140,NA,"50cdf9b2-217c-44e3-94a0-755d0810ffc3",466,"species",NA,NA,NA
-"87","Pitta nympha","Pitta nympha","ä»™å…«è‰²é¶‡(å…«è‰²é³¥)","II","v1080109",380436,380436,"26c84d6e-66bc-4928-842d-86774c26b317",470,"species",NA,NA,NA
-"88","Pycnonotus taivanus","Pycnonotus taivanus","çƒé ­ç¿","II","v1080109",380440,380440,"0f4a4cbf-de63-43e0-bcaa-381c161c63e6",471,"species",NA,NA,NA
-"89","Regulus goodfellowi","Regulus goodfellowi","è‡ºç£æˆ´èŠ(ç«å† æˆ´èŠé³¥)","III","v1080109",380442,380442,"fc9b6509-2981-4915-b09b-7d289bb4622b",473,"species",NA,NA,NA
-"90","Acridotheres cristatellus","Acridotheres cristatellus","å…«å“¥","II","v1080109",1023443,NA,"56db805c-faf5-417c-8d04-ae8f442ca622",474,"species",NA,NA,NA
-"91","Gracula religiosa","Gracula religiosa","ä¹å®˜é³¥","II","v1080109",419446,419446,"94e11be7-aea5-4fb2-bdf4-ffd50423d3b7",475,"species",NA,NA,NA
-"92","Phylloscopus ijimae","Phylloscopus ijimae","é£¯å³¶æŸ³é¶¯(è‰¾å‰æŸ³é¶¯)","III","v1080109",404634,404634,"100a5f31-51f5-4c3b-a9c3-91c85bbe3849",477,"species",NA,NA,NA
-"93","Leiothrix argentauris","Leiothrix argentauris","éŠ€è€³ç›¸æ€é³¥","II","v1080109",432360,432360,"59e13b41-f852-4e9a-968a-97f2288802f0",478,"species",NA,NA,NA
-"94","Leiothrix lutea","Leiothrix lutea","ç´…å˜´ç›¸æ€é³¥","II","v1080109",417886,417886,"0d962ac3-9c74-446f-bfce-cc24461abf69",479,"species",NA,NA,NA
-"95","Turdus poliocephalus","Turdus poliocephalus","ç™½é ­é¶‡","II","v1080109",1025725,NA,"3f6ddcee-31b4-4af1-bd9b-01dc6b171118",480,"species",NA,NA,NA
-"96","Yuhina brunneiceps","Yuhina brunneiceps","å† ç¾½ç•«çœ‰","III","v1080109",380486,380486,"2dc77ddb-7020-4701-b24f-7c548ca059c4",481,"species",NA,NA,NA
-"97","Dendrocopos leucotos","Dendrocopos leucotos","å¤§èµ¤å•„æœ¨","II","v1080109",1024117,NA,"0cfc5f84-e36f-4eb0-b071-382adb17dce9",483,"species",NA,NA,NA
-"98","Picus canus","Picus canus","ç¶ å•„æœ¨","II","v1080109",1025227,NA,"138e3018-2c45-45d9-8cd4-99dd636d6f74",485,"species",NA,NA,NA
-"99","Cacatua alba","Cacatua alba","ç™½é³³é ­é¸šéµ¡","II","v1080109",419413,419413,"632f098f-76bb-43c3-8b1f-b7da8fbd37c0",493,"species",NA,NA,NA
-"100","Cacatua galerita","Cacatua galerita","è‘µèŠ±é³³é ­é¸šéµ¡","II","v1080109",419414,419414,"fd4b7847-e68c-443f-a7a5-ce7414e95767",494,"species",NA,NA,NA
-"101","Cacatua goffiniana","Cacatua goffiniana","æˆˆèŠ¬æ°é³³é ­é¸šéµ¡","I","v1080109",419415,419415,"f70b5c4f-b073-47c4-8ea5-a5489c5cf2e4",495,"species",NA,NA,NA
-"102","Cacatua moluccensis","Cacatua moluccensis","é®­å† é¸šéµ¡","I","v1080109",419416,419416,"96d8481d-7748-4733-a64e-0e793321208f",498,"species",NA,NA,NA
-"103","Ara ararauna","Ara ararauna","è—é»ƒé‡‘å‰›é¸šéµ¡","II","v1080109",417958,417958,"965f9a14-efab-470e-9e42-d035638c8daf",531,"species",NA,NA,NA
-"104","Psittacus erithacus","Psittacus erithacus","ç°é¸šéµ¡","I","v1080109",417808,417808,"c24cf121-0cdd-460a-94db-95ce58023e8a",561,"species",NA,NA,NA
-"105","Asio flammeus","Asio flammeus","çŸ­è€³é´","II","v1080109",1023655,NA,"e950df7d-5c0b-44cd-acd0-62e177f1aed1",568,"species",NA,NA,NA
-"106","Asio otus","Asio otus","é•·è€³é´","II","v1080109",1023656,NA,"04ea905b-a40d-4e91-a7b7-3f7511129623",569,"species",NA,NA,NA
-"107","Glaucidium brodiei","Glaucidium brodiei","éµ‚é¶¹","II","v1080109",1024414,NA,"71395c68-21ca-4ee6-9ebd-f696c9ebd842",570,"species",NA,NA,NA
-"108","Ketupa flavipes","Ketupa flavipes","é»ƒé­šé´","II","v1080109",380500,380500,"5f971330-67d7-4261-b0bc-08e2b3dc158f",572,"species",NA,NA,NA
-"109","Ninox japonica","Ninox japonica","è¤é·¹é´","II","v1080109",1024923,NA,"8f515304-fd5c-4841-b05f-8caab8268021",574,"species",NA,NA,NA
-"110","Otus lettia","Otus lettia","é ˜è§’é´","II","v1080109",1025028,NA,"49860672-4a66-4331-9640-5fe4734651ab",577,"species",NA,NA,NA
-"111","Otus spilocephalus","Otus spilocephalus","é»ƒå˜´è§’é´","II","v1080109",1025029,NA,"9add3bef-0871-4552-bd18-7f6a254ad07d",578,"species",NA,NA,NA
-"112","Otus sunia","Otus sunia","æ±æ–¹è§’é´","II","v1080109",1025030,NA,"c1927c41-b4d2-4726-8614-e3f34a3dee51",579,"species",NA,NA,NA
-"113","Strix leptogrammica","Strix leptogrammica","è¤æ—é´","II","v1080109",1025563,NA,"b7b91dca-368e-4e07-9f87-f5ee35ca2dbe",580,"species",NA,NA,NA
-"114","Strix nivicolum","Strix nivicolum","æ±æ–¹ç°æ—é´(ç°æ—é´)","II","v1080109",1025564,NA,"a945b668-8e84-4a1f-af0e-d5c52adc515d",581,"species",NA,NA,NA
-"115","Tyto longimembris","Tyto longimembris","è‰é´","I","v1080109",1025744,NA,"a4ecadb1-8691-4853-9bcd-e136cabb6250",582,"species",NA,NA,NA
-"116","Japalura luei","Japalura luei","å‘‚æ°æ”€èœ¥","II","v1080109",380622,380622,"b4a0f603-12e1-4f0e-8560-450ed055fa09",604,"species",NA,NA,NA
-"117","Japalura makii","Japalura makii","ç‰§æ°æ”€èœ¥","II","v1080109",380623,380623,"56fd8f78-9bf8-4197-8453-a2db4b817962",605,"species",NA,NA,NA
-"118","Dopasia harti","Dopasia harti","å“ˆç‰¹æ°è›‡èœ¥(è›‡èœ¥ã€è‡ºç£è›‡èœ¥)","II","v1080109",380627,380627,"6b3d895e-4eb2-45d2-b88d-a2d2342c8c6e",606,"species",NA,NA,NA
-"119","Gekko kikuchii","Gekko kikuchii","èŠæ± æ°å£è™(è˜­å¶¼å®ˆå®®ã€èŠæ± æ°èš§è›¤)","II","v1080109",380667,380667,"b918cdac-a9ef-4f60-b396-d3cad83ef45c",624,"species",NA,NA,NA
-"120","Lepidodactylus yami","Lepidodactylus yami","é›…ç¾é±—è¶¾è™(é›…ç¾é±—è¶¾èè™)","II","v1080109",380674,380674,"6b9bc28a-2fce-4322-83bf-1020c36030a0",625,"species",NA,NA,NA
-"121","Takydromus sauteri","Takydromus sauteri","æ¢­å¾·æ°è‰èœ¥(å—è‡ºè‰èœ¥)","III","v1080109",380686,380686,"dfcd02f0-bb59-43e0-b035-f72509ec1822",648,"species",NA,NA,NA
-"122","Amphiesma miyajimae","Amphiesma miyajimae","é‡‘çµ²è›‡","I","v1080109",380630,380630,"00f89f81-f5dd-4593-b9cf-2fd5bd429694",669,"species",NA,NA,NA
-"123","Euprepiophis mandarinus","Euprepiophis mandarinus","é«˜ç ‚è›‡","III","v1080109",427266,427266,"dcdffc54-2f92-48ec-9543-c7f59f53d73f",674,"species",NA,NA,NA
-"124","Myrrophis chinensis","Myrrophis chinensis","å”æ°´è›‡","II ","v1080109",380642,380642,"acffe805-822f-4fce-bfd8-fdd8bd096319",675,"species",NA,NA,NA
-"125","Rhabdophis swinhonis","Rhabdophis swinhonis","æ–¯æ–‡è±ªæ°æ¸¸è›‡","III","v1080109",380654,380654,"4b1343f3-89a6-484f-bad3-76956a3776de",677,"species",NA,NA,NA
-"126","Sinonatrix annularis","Sinonatrix annularis","èµ¤è…¹æ¸¸è›‡","II","v1080109",380657,380657,"1638a432-d2fd-473f-bac2-5c1fe2a70c20",678,"species",NA,NA,NA
-"127","Xenochrophis piscator","Xenochrophis piscator","è‰èŠ±è›‡","III","v1080109",380659,380659,"b065f5f5-3bee-482b-9f1a-6015fcac5b19",679,"species",NA,NA,NA
-"128","Sinomicrurus hatori","Sinomicrurus hatori","ç¾½é³¥æ°å¸¶ç´‹èµ¤è›‡","II","v1080109",421733,421733,"40357714-5163-42fb-a0b0-fae001cf30d4",692,"species",NA,NA,NA
-"129","Sinomicrurus macclellandi","Sinomicrurus macclellandi","ç’°ç´‹èµ¤è›‡","III","v1080109",1025481,NA,"6cd76c8f-05b6-497d-bbf4-505334c1beac",693,"species",NA,NA,NA
-"130","Sinomicrurus sauteri","Sinomicrurus sauteri","æ¢­å¾·æ°å¸¶ç´‹èµ¤è›‡(å¸¶ç´‹èµ¤è›‡)","II","v1080109",421735,421735,"fa0528e2-44f5-442e-93ec-782a6bdc6eca",694,"species",NA,NA,NA
-"131","Python reticulatus","Python reticulatus","ç¶²ç´‹èŸ’","II","v1080109",418194,418194,"d4a4a2b6-f048-4c30-8c44-1988a7134784",696,"species",NA,NA,NA
-"132","Daboia siamensis","Daboia siamensis","é–è›‡","II","v1080109",427241,427241,"a26247d3-879c-4272-a5c8-504f54654f50",700,"species",NA,NA,NA
-"133","Deinagkistrodon acutus","Deinagkistrodon acutus","ç™¾æ­¥è›‡","II","v1080109",380702,380702,"1e885a7c-5dfd-46f1-a141-658c4d403dbd",701,"species",NA,NA,NA
-"134","Ovophis monticola","Ovophis monticola","ç‘ªå®¶å±±é¾œæ®¼èŠ±(é˜¿é‡Œå±±é¾œæ®¼èŠ±)","II","v1080109",1025036,NA,"37f0c327-4e6e-4dea-ba9f-61e3ea1da59e",702,"species",NA,NA,NA
-"135","Trimeresurus gracilis","Trimeresurus gracilis","èŠæ± æ°é¾œæ®¼èŠ±","III","v1080109",380704,380704,"4cd602c8-af4c-4e47-b2af-f85e5c48218f",704,"species",NA,NA,NA
-"136","Cuora flavomarginata","Cuora flavomarginata","é£Ÿè›‡é¾œ","I","v1080109",380611,380611,"6e4ebaf6-7bcc-4962-9b76-6c03cca192f6",720,"species",NA,NA,NA
-"137","Mauremys japonica","Mauremys japonica","æ—¥æœ¬çŸ³é¾œ","II","v1080109",417641,417641,"b09551a8-b711-4cde-bc58-444a41e633d7",734,"species",NA,NA,NA
-"138","Mauremys mutica","Mauremys mutica","æŸ´æ£ºé¾œ","I","v1080109",380612,380612,"4b94bfc5-86cf-4c04-a358-83da85980619",735,"species",NA,NA,NA
-"139","Mauremys reevesii","Mauremys reevesii","é‡‘é¾œ","II","v1080109",380610,380610,"a1148186-eaa1-482a-931f-7b26c9d96a7a",737,"species",NA,NA,NA
-"140","Babina okinavana","Babina okinavana","è±ç´è›™","II","v1080109",416138,416138,"127088ed-624d-415b-805b-42af0057f031",810,"species",NA,NA,NA
-"141","Hylarana taipehensis","Hylarana taipehensis","è‡ºåŒ—èµ¤è›™","II","v1080109",416658,416658,"2457ec2f-57ac-496f-b072-e0a310d77226",811,"species",NA,NA,NA
-"142","Pelophylax fukienensis","Pelophylax fukienensis","é‡‘ç·šè›™","III","v1080109",418420,418420,"631a9f03-306f-4a24-b947-f20244505f4f",812,"species",NA,NA,NA
-"143","Rhacophorus arvalis","Rhacophorus arvalis","è«¸ç¾…æ¨¹è›™","II","v1080109",380048,380048,"24ac63cf-dc3f-4431-a176-1f9225c6a56a",813,"species",NA,NA,NA
-"144","Rhacophorus aurantiventris","Rhacophorus aurantiventris","æ©™è…¹æ¨¹è›™","II","v1080109",380049,380049,"ea348cf4-0ae6-4eec-8556-5084d658982e",814,"species",NA,NA,NA
-"145","Rhacophorus prasinatus","Rhacophorus prasinatus","ç¿¡ç¿ æ¨¹è›™","III","v1080109",380051,380051,"8ce5f221-61ad-4e5d-a084-5084d8c9b055",815,"species",NA,NA,NA
-"146","Rhacophorus taipeianus","Rhacophorus taipeianus","è‡ºåŒ—æ¨¹è›™","III","v1080109",380052,380052,"3a7000ea-cb36-4995-8d90-7dcd37c51a34",816,"species",NA,NA,NA
-"147","Hynobius arisanensis","Hynobius arisanensis","é˜¿é‡Œå±±å±±æ¤’é­š","II","v1080109",380053,380053,"00a2f8fd-ff08-4b5f-8d37-0880e7320587",818,"species",NA,NA,NA
-"148","Hynobius formosanus","Hynobius formosanus","è‡ºç£å±±æ¤’é­š","I","v1080109",380054,380054,"53f81e9d-d079-42a1-a9f1-6fa6e96eaa52",819,"species",NA,NA,NA
-"149","Hynobius fuca","Hynobius fuca","è§€éœ§å±±æ¤’é­š","I","v1080109",413087,413087,"e8a89a66-cc57-454f-84ba-2cde6ac5fbd3",820,"species",NA,NA,NA
-"150","Hynobius glacialis","Hynobius glacialis","å—æ¹–å±±æ¤’é­š","I","v1080109",413088,413088,"9610bea3-8a90-417e-9948-2fabb701fd7f",821,"species",NA,NA,NA
-"151","Hynobius sonani","Hynobius sonani","æ¥šå—æ°å±±æ¤’é­š","I","v1080109",380055,380055,"9ef5200b-f94b-4a6b-bdc8-e8a6ba6a548b",822,"species",NA,NA,NA
-"152","Hemimyzon taitungensis","Hemimyzon taitungensis","è‡ºæ±é–“çˆ¬å²©é°","II","v1080109",380992,380992,"bc1b317b-7389-4426-b00e-dc22a7667e2f",824,"species",NA,NA,NA
-"153","Sinogastromyzon nantaiensis","Sinogastromyzon nantaiensis","å—è‡ºä¸­è¯çˆ¬å²©é°","III","v1080109",383544,383544,"0c061ec6-8b80-4fed-b612-0d14da2bdee1",825,"species",NA,NA,NA
-"154","Sinogastromyzon puliensis","Sinogastromyzon puliensis","åŸ”é‡Œä¸­è¯çˆ¬å²©é°","III","v1080109",380993,380993,"a0ab15f4-6c18-4b96-91ba-8319b7894ef3",826,"species",NA,NA,NA
-"155","Metzia formosae","Metzia formosae","è‡ºç£æ¢…æ°?(è‡ºç£ç´°?)","III","v1080109",381023,381023,"e49be715-553a-4e2c-844e-48337d474042",828,"species",NA,NA,NA
-"156","Metzia mesembrinum","Metzia mesembrinum","å¤§é±—æ¢…æ°?","III","v1080109",381024,381024,"8364ec1e-f5a0-44bb-8a50-40d7b548fb52",829,"species",NA,NA,NA
-"157","Pararasbora moltrechti","Pararasbora moltrechti","è‡ºç£å‰¯ç´°é¯½(è‡ºç£ç™½é­š)","II","v1080109",381020,381020,"ba1431a7-f754-4687-88fc-cbae0450977d",830,"species",NA,NA,NA
-"158","Squalidus banarescui","Squalidus banarescui","å·´æ°éŠ€é®ˆ","I","v1080109",395247,395247,"96674ae7-a4d8-4688-a0bf-3e15d0fd2191",832,"species",NA,NA,NA
-"159","Squalidus iijimae","Squalidus iijimae","é£¯å³¶æ°éŠ€é®ˆ","I","v1080109",381028,381028,"8ff1a9aa-7d0e-42dc-905e-feccb6a69c33",833,"species",NA,NA,NA
-"160","Liobagrus formosanus","Liobagrus formosanus","è‡ºç£é‰¤å»é®­","III","v1080109",382917,382917,"895740ab-889c-498d-9e7e-61a09f69635a",836,"species",NA,NA,NA
-"161","Balaenoptera acutorostrata","Balaenoptera acutorostrata","å°é¬šé¯¨","I","v1080109",380528,380528,"525d7081-7040-456a-8d28-53381a10dc44",902,"species",NA,NA,NA
-"162","Balaenoptera borealis","Balaenoptera borealis","?é¯¨","I","v1080109",380529,380529,"d33826dc-a761-4b8c-a17e-862a2a2492ee",904,"species",NA,NA,NA
-"163","Balaenoptera edeni","Balaenoptera edeni","é¯·é¯¨","I","v1080109",380530,380530,"304b1453-92c5-43c5-a817-227bd9aeebd1",905,"species",NA,NA,NA
-"164","Balaenoptera musculus","Balaenoptera musculus","è—é¯¨","I","v1080109",385002,385002,"2425943a-2707-4def-bbfb-76db26e4d9f1",906,"species",NA,NA,NA
-"165","Balaenoptera omurai","Balaenoptera omurai","å¤§æ‘é¯¨","I","v1080109",385001,385001,"39c658e8-d46d-4ffb-bde5-3df040704793",907,"species",NA,NA,NA
-"166","Balaenoptera physalus","Balaenoptera physalus","é•·é ˆé¯¨","I","v1080109",380531,380531,"e7e61480-ff22-42ef-8c55-ceaaef205e25",908,"species",NA,NA,NA
-"167","Megaptera novaeangliae","Megaptera novaeangliae","å¤§ç¿…é¯¨","I","v1080109",380532,380532,"6358b5a1-3a1b-4354-a9cb-72a77a7cb3eb",909,"species",NA,NA,NA
-"168","Sousa chinensis","Sousa chinensis","ä¸­è¯ç™½æµ·è±š","I","v1080109",380541,380541,"c3b4ff09-9126-44a2-a420-35ddedb79369",914,"species",NA,NA,NA
-"169","Tursiops aduncus","Tursiops aduncus","å°å¤ªç“¶é¼»æµ·è±š","II","v1080109",380546,380546,"9b6dbed3-9205-40f5-95f8-d36baa8c7ba4",915,"species",NA,NA,NA
-"170","Eschrichtius robustus","Eschrichtius robustus","ç°é¯¨","I","v1080109",380548,380548,"75093e12-40f3-4467-8fdd-2c8bd127325a",917,"species",NA,NA,NA
-"171","Neophocaena phocaenoides","Neophocaena phocaenoides","æ±Ÿè±š(éœ²è„Šé¼ æµ·è±š)","I","v1080109",380551,380551,"fb177ad6-769a-42e3-995f-5594e899c76f",920,"species",NA,NA,NA
-"172","Anous stolidus","Anous stolidus","ç„ç‡•é·—","II","v1080109",1023581,NA,"76f9f298-fd14-4242-8f51-c6a40783435d",930,"species",NA,NA,NA
-"173","Onychoprion anaethetus","Onychoprion anaethetus","ç™½çœ‰ç‡•é·—","II","v1080109",1024993,NA,"fd252b08-fce5-4cc0-a698-b25a01828184",932,"species",NA,NA,NA
-"174","Saundersilarus saundersi","Saundersilarus saundersi","é»‘å˜´é·—","II","v1080109",419698,419698,"e65826ad-5a8d-468b-aa5e-16df3c5038b8",933,"species",NA,NA,NA
-"175","Sterna dougallii","Sterna dougallii","ç´…ç‡•é·—(ç²‰ç´…ç‡•é·—)","II","v1080109",1025543,NA,"7559234a-62cd-4f7b-a6cb-313de3115a12",934,"species",NA,NA,NA
-"176","Sterna sumatrana","Sterna sumatrana","è’¼ç‡•é·—","II","v1080109",1025545,NA,"c92ed9a7-3377-472f-87d5-c85ae940d1cc",935,"species",NA,NA,NA
-"177","Sternula albifrons","Sternula albifrons","å°ç‡•é·—","II","v1080109",1025547,NA,"492cb237-e66a-4af1-841c-58dcbdba08b1",936,"species",NA,NA,NA
-"178","Thalasseus bergii","Thalasseus bergii","é³³é ­ç‡•é·—","II","v1080109",1025652,NA,"96507010-27ae-438b-bd64-0be53aa069dd",937,"species",NA,NA,NA
-"179","Thalasseus bernsteini","Thalasseus bernsteini","é»‘å˜´ç«¯é³³é ­ç‡•é·—","I","v1080109",419712,419712,"1ede32c8-c430-4a8c-9763-44b1764d7055",938,"species",NA,NA,NA
-"180","Pelecanus crispus","Pelecanus crispus","å·ç¾½éµœé¶˜","I","v1080109",404624,404624,"2f298d73-25c9-42e5-af37-e196f90bbf5a",941,"species",NA,NA,NA
-"181","Phoebastria albatrus","Phoebastria albatrus","çŸ­å°¾ä¿¡å¤©ç¿","I","v1080109",404630,404630,"4748e6b0-2087-4910-89ee-5a3f657b5369",942,"species",NA,NA,NA
-"182","Phoebastria nigripes","Phoebastria nigripes","é»‘è…³ä¿¡å¤©ç¿","I","v1080109",404632,404632,"469ad59a-7986-42a8-8293-8b848394b243",943,"species",NA,NA,NA
-"183","Caretta caretta","Caretta caretta","èµ¤è µé¾œ","I","v1080109",380614,380614,"9ca257ce-5c90-412c-9558-d0c692e65571",948,"species",NA,NA,NA
-"184","Chelonia mydas","Chelonia mydas","ç¶ è µé¾œ","I","v1080109",380615,380615,"9ceb18ee-2e88-40c6-84aa-079de58c2c6c",949,"species",NA,NA,NA
-"185","Eretmochelys imbricata","Eretmochelys imbricata","ç³ç‘","I","v1080109",380616,380616,"ecc9e451-b816-4792-bac6-983e5e633a71",950,"species",NA,NA,NA
-"186","Lepidochelys olivacea","Lepidochelys olivacea","æ¬–è µé¾œ","I","v1080109",380617,380617,"82b23908-a037-4198-b8f2-9dc5197d8493",951,"species",NA,NA,NA
-"187","Dermochelys coriacea","Dermochelys coriacea","é©é¾œ(ç¨œçš®é¾œ)","I","v1080109",380618,380618,"1acef1e4-9f24-4f9c-8ab1-f4ded3437a5f",952,"species",NA,NA,NA
-"188","Cheilinus undulatus","Cheilinus undulatus","æ›²ç´‹å”‡é­š(æ³¢ç´‹å”‡é­šã€é¾ç‹é¯›ã€è˜‡çœ‰é­š)","II","v1080109",381941,381941,"bd2519a5-b5c5-47b0-bdc1-a0f825ad1f6e",956,"species",NA,NA,NA
-"189","Bolbometopon muricatum","Bolbometopon muricatum","éš†é ­é¸šå“¥é­š(é§å³°å¤§é¸šå˜´é­š)","II","v1080109",382434,382434,"139b096b-f585-4115-aa4c-8b7b81656ff3",957,"species",NA,NA,NA
-"190","Aegypius monachus",NA,NA,"II","v1080109",380102,380102,"382b65de-c823-4945-9a77-00bd707eeb94",NA,"species",NA,NA,NA
-"191","Aquila heliaca","Aquila heliacal","ç™½è‚©éµ°","I","v1080109",380104,380104,"08dd93ce-8d46-44a9-92ba-8f4a5aec3cf1",334,"species",NA,NA,NA
-"192","Syrmaticus mikado","Syrmaticus mikado","é»‘é•·å°¾é›‰(å¸é›‰)","II","v1080109",380291,380291,"f99d359f-0dd5-4dbd-817e-a45c6d7b7efc",392,"species",NA,NA,NA
-"193","Feresa attenuata",NA,NA,"II","v1080109",380534,380534,"85ffeafa-7409-47d2-b6fe-9ea9034f4818",NA,"species",NA,NA,NA
-"194","Globicephala macrorhynchus",NA,NA,"II","v1080109",380535,380535,"02c914da-21c0-4d17-b67e-491defc98381",NA,"species",NA,NA,NA
-"195","Grampus griseus",NA,NA,"II","v1080109",380536,380536,"45a0d895-326c-4bca-8991-11347fff85bc",NA,"species",NA,NA,NA
-"196","Lagenodelphis hosei",NA,NA,"II","v1080109",380537,380537,"be1253ce-1c72-4d7b-ac74-936c9882a2ec",NA,"species",NA,NA,NA
-"197","Orcinus orca",NA,NA,"II","v1080109",380538,380538,"1b07f8fc-3ed8-4b63-80bf-f57556663cb8",NA,"species",NA,NA,NA
-"198","Peponocephala electra",NA,NA,"II","v1080109",380539,380539,"b1ea8557-7dfb-4cce-a3bc-bfc9d3dfa19b",NA,"species",NA,NA,NA
-"199","Pseudorca crassidens",NA,NA,"II","v1080109",380540,380540,"24dfe25f-2210-4085-b270-4b0c483d8c6e",NA,"species",NA,NA,NA
-"200","Stenella attenuata",NA,NA,"II","v1080109",380542,380542,"1f1f655d-1522-48bf-82ea-d0fc92c36d5b",NA,"species",NA,NA,NA
-"201","Stenella coeruleoalba",NA,NA,"II","v1080109",380543,380543,"adae1946-cffe-465a-a1fe-520915600c6e",NA,"species",NA,NA,NA
-"202","Stenella longirostris",NA,NA,"II","v1080109",380544,380544,"020aa3aa-b69b-4198-992a-8c8f8eede9c0",NA,"species",NA,NA,NA
-"203","Steno bredanensis",NA,NA,"II","v1080109",380545,380545,"4f7a7d42-eb80-4370-81e6-8da56c5c38e2",NA,"species",NA,NA,NA
-"204","Tursiops truncatus","Tursiops truncates","ç“¶é¼»æµ·è±š","II","v1080109",380547,380547,"21a8c039-f798-4ead-9331-fb522862aeeb",916,"species",NA,NA,NA
-"205","Kogia breviceps",NA,NA,"II","v1080109",380549,380549,"ef7b7132-e20a-4b35-829a-b5b8512dac85",NA,"species",NA,NA,NA
-"206","Kogia sima",NA,NA,"II","v1080109",380550,380550,"dc3dfcea-e2d5-4d41-8575-1e04c9f4bbdb",NA,"species",NA,NA,NA
-"207","Physeter macrocephalus","Physeter microcephalus","æŠ¹é¦™é¯¨","I","v1080109",380552,380552,"40119379-861d-4e93-b566-e90901be88bd",922,"species",NA,NA,NA
-"208","Mesoplodon densirostris",NA,NA,"II","v1080109",380554,380554,"ce68a0a5-7884-4ccd-a227-3a1a3699d907",NA,"species",NA,NA,NA
-"209","Mesoplodon ginkgodens",NA,NA,"II","v1080109",380555,380555,"ba532919-8c78-44dd-9230-77524d89c913",NA,"species",NA,NA,NA
-"210","Ziphius cavirostris",NA,NA,"II","v1080109",380556,380556,"078b0a92-6948-46dd-a3d8-e3caad02401b",NA,"species",NA,NA,NA
-"211","Enhydris plumbea","Hypsiscopus plumbea ","é‰›è‰²æ°´è›‡","III","v1080109",380643,380643,"d08669ba-8e9e-4d01-b96e-4265d17bc96d",673,"species",NA,NA,NA
-"212","Oncorhynchus formosanus","Oncorhynchus masou","æ«»èŠ±é‰¤å»é®­","I","v1080109",382788,382788,"86411be4-c1f1-43b5-8750-fcdd950eed87",835,"species",NA,NA,NA
-"213","Delphinus delphis",NA,NA,"II","v1080109",385000,385000,"04ef2c54-9875-4bd0-af03-3734d0c18b1d",NA,"species",NA,NA,NA
-"214","Balaenoptera brydei",NA,NA,"II","v1080109",385003,385003,"4cc93fce-ba29-4d30-b74f-ea33c81ad83a",NA,"species",NA,NA,NA
-"215","Buteo hemilasius",NA,NA,"II","v1080109",404551,404551,"3cc98484-bbf2-4c57-9300-b04ffc39ba8d",NA,"species",NA,NA,NA
-"216","Falco amurensis",NA,NA,"II","v1080109",404587,404587,"4e54bc74-f434-4d74-92fc-9a032a415b8e",NA,"species",NA,NA,NA
-"217","Falco naumanni",NA,NA,"II","v1080109",404588,404588,"63363497-97d4-46bb-8e1a-aeaeafb68867",NA,"species",NA,NA,NA
-"218","Prionailurus bengalensis","Prionailurus bengalensis euptilurus ","çŸ³è™","I","v1080109",416107,416107,"96acaa9b-0412-4853-8168-fccd12166426",105,"infraspecies",NA,NA,NA
-"219","Rousettus leschenaultii",NA,NA,"II","v1080109",416110,416110,"14d0933d-08f2-403c-83d6-96c8479ec3f7",NA,"species",NA,NA,NA
-"220","Geochelone elegans",NA,NA,"II","v1080109",417722,417722,"d172ef75-341a-412e-a8c4-9aefbe0b9637",NA,"species",NA,NA,NA
-"221","Paroaria coronata","Paroaria coronate","å† ç´…è Ÿå˜´?","II","v1080109",417867,417867,"926dab31-c7de-4084-be50-12de35254405",426,"species",NA,NA,NA
-"222","Indotestudo elongata",NA,NA,"II","v1080109",418130,418130,"23e7cfbb-7342-496e-8223-969a3790dd54",NA,"species",NA,NA,NA
-"223","Anthropoides virgo",NA,NA,"II","v1080109",419631,419631,"64c27564-4e73-4b44-a4a5-0b12738808ba",NA,"species",NA,NA,NA
-"224","Grus grus",NA,NA,"II","v1080109",420877,420877,"d4f1d790-c3e0-43cd-83ba-9fb0afdf5b64",NA,"species",NA,NA,NA
-"225","Delphinus capensis",NA,NA,"II","v1080109",427142,427142,"3293542b-82c4-4173-98a7-1a7a8079a8e1",NA,"species",NA,NA,NA
-"226","Clanga clanga",NA,NA,"II","v1080109",427287,427287,"3fae360a-23ea-45ef-827a-4c7af654fe69",NA,"species",NA,NA,NA
-"227","Haliaeetus leucogaster",NA,NA,"II","v1080109",428071,428071,"b6df16d7-59fa-4d02-bb4b-905d2dd69c5f",NA,"species",NA,NA,NA
-"228","Calidris pygmea","Calidris pygmaea","çµå˜´é·¸","II","v1080109",428564,428564,"18a01f7a-54bc-4a9e-bcb4-1ced9de8eb9d",283,"species",NA,NA,NA
-"229","Ichthyaetus relictus","Larus relictus","éºé·—","I","v1080109",428568,428568,"283a16c1-47fd-4221-a221-d52e575766ee",931,"species",NA,NA,NA
-"230","Balaenoptera taiwanica",NA,NA,"II","v1080109",430503,430503,"a225e20b-9a77-4033-b833-fc8db006fdec",NA,"species",NA,NA,NA
-"231","Synoicus chinensis","Coturnix chinensis","è—èƒ¸é¶‰(é¦´é¤Šå‹é™¤å¤–)","II","v1080109",431229,431229,"edb3f65e-d359-49d5-8a9c-67953e89172b",372,"species",NA,NA,NA
-"232","Indopacetus  pacificus",NA,NA,"II","v1080109",432102,432102,"c58ca8a2-6d29-4185-90f0-5229b0019719",NA,"species",NA,NA,NA
-"233","Leucogeranus leucogeranus","Grus leucogeranus","ç™½é¶´","I","v1080109",432194,432194,"251368bf-574e-4e61-8fff-b77abe6f4370",404,"species",NA,NA,NA
-"234","Antigone vipio","Grus vipio","ç™½æ•é¶´","I","v1080109",432195,432195,"a9182b3e-5cb1-4c28-932d-26b9a7eb62db",407,"species",NA,NA,NA
-"235","Machlolophus holsti","Macholophus holsti","é»ƒå±±é›€","II","v1080109",432368,432368,"ccab507a-b6e1-4063-9252-9c9318aaf524",462,"species",NA,NA,NA
-"236","Accipiter badius",NA,NA,"II","v1080109",1023421,NA,"20363a3c-1e5c-4162-a830-67fe4e451174",NA,"species",NA,NA,NA
-"237","Accipiter gentilis",NA,NA,"II","v1080109",1023422,NA,"5a00f75f-2e53-4c6d-b55a-884f1ce64770",NA,"species",NA,NA,NA
-"238","Aquila fasciata",NA,NA,"II","v1080109",1023625,NA,"c0ea178e-5629-4e72-9a26-d31954e6a982",NA,"species",NA,NA,NA
-"239","Athene noctua",NA,NA,"II","v1080109",1023666,NA,"2fdeee3e-f5ea-46ba-bb77-aed6c8bb3d93",NA,"species",NA,NA,NA
-"240","Aviceda leuphotes",NA,NA,"II","v1080109",1023692,NA,"7e1b0fb8-65f9-4642-870c-b868e2143e72",NA,"species",NA,NA,NA
-"241","Bubo bubo",NA,NA,"II","v1080109",1023759,NA,"2fdb32ef-9f2f-4066-8e35-3a3bbef0855d",NA,"species",NA,NA,NA
-"242","Buteo japonicus",NA,NA,"II","v1080109",1023768,NA,"27fbbbb9-e533-4c9b-a9a1-1e7dedf64715",NA,"species",NA,NA,NA
-"243","Buteo lagopus",NA,NA,"II","v1080109",1023769,NA,"88f50e88-227f-4ef4-984c-8ed45ce8cb85",NA,"species",NA,NA,NA
-"244","Falco columbarius",NA,NA,"II","v1080109",1024353,NA,"5221702c-9898-43a6-95a2-d6bc95512a9c",NA,"species",NA,NA,NA
-"245","Haliastur indus",NA,NA,"II","v1080109",1024454,NA,"8e478be4-8d55-43c8-8060-a4819382ba8b",NA,"species",NA,NA,NA
-"246","Ictinaetus malaiensis",NA,NA,"II","v1080109",1024552,NA,"b2350fcd-44ae-4faf-9777-0e08342613fc",NA,"species",NA,NA,NA
-"247","Manis pentadactyla",NA,NA,"II","v1080109",1024731,NA,"12893a44-eca8-44a1-955f-970705f53bc4",NA,"species",NA,NA,NA
-"248","Mustela nivalis",NA,NA,"III","v1080109",1024853,NA,"1b2bd256-b844-4cb6-bc52-8b377c08ba22",NA,"species",NA,NA,NA
-"249","Orthriophis taeniurus","Elaphe taeniura ","é»‘çœ‰éŒ¦è›‡(éŒ¦è›‡)","III","v1080109",1025024,NA,"a0624436-a49d-457c-b491-dc61406d49c3",676,"species",NA,NA,NA
-"250","Otus elegans",NA,NA,"II","v1080109",1025027,NA,"11ac79d8-844c-431d-922b-fda00fa39e52",NA,"species",NA,NA,NA
-"251","Pteropus dasymallus",NA,NA,"I","v1080109",1025365,NA,"52de4e15-0819-4346-bd73-505256a30d9e",NA,"species",NA,NA,NA
-"252","Rusa unicolor",NA,NA,"III","v1080109",1025423,NA,"ec16b5e7-3bc6-48e1-99e3-fe071331a48e",NA,"species",NA,NA,NA
+Scientific name_TBN ,Scientific name_PSL,Chinese common name_PSL,protected_status,Version,tp_tid,taibnet_namecode,uuid,protect species list number,rank_PSL,,,
+Capricornis swinhoei,Capricornis swinhoei,»OÆW³¥¤s¦Ï(»OÆWªøÃO¤s¦Ï),III,v1080109,416105,416105,c6b50b1a-8e3b-4729-ba20-73faaf3d9250,15,species,,,
+Neofelis nebulosa,Neofelis nebulosa,¶³°\,I,v1080109,1024882,,dbf5e038-f9e6-4101-93db-baa7ad072d50,98,species,,,
+Herpestes urva,Herpestes urva,´Ä¿u¿ß(­¹ÃÉ?),III,v1080109,1024484,,46159f00-98da-44c4-9d8a-c4876c7b2f1d,112,species,,,
+Lutra lutra,Lutra lutra,¼Ú¨È¤ôÃ¡,I,v1080109,1024697,,f8947246-6152-439c-9a67-a6b1422941b4,118,species,,,
+Martes flavigula,Martes flavigula,¶À³ï¶I,III,v1080109,1024735,,53c48060-9365-4028-92bb-cc8245f59881,122,species,,,
+Ursus thibetanus,Ursus thibetanus,¨È¬w¶Âºµ,I,v1080109,1025759,,87d49346-7297-4c0d-a92e-19179e68e9d8,131,species,,,
+Viverricula indica,Viverricula indica,Åe­»¿ß,II,v1080109,1025768,,a9e6148a-e792-4475-bba8-db50bd8759cd,137,species,,,
+Coelops frithii,Coelops frithii,µL§À¸­»ó½»,II,v1080109,1023992,,7ec2b401-ca32-42bd-9b5a-63d61823a097,138,species,,,
+Manis pentadactyla pentadactyla,Manis pentadactyla pentadactyla,»OÆW¬ï¤s¥Ò(¤¤°êóÇÃU),II,v1080109,1024731,,12893a44-eca8-44a1-955f-970705f53bc4,188,infraspecies,,,
+Chimarrogale himalayica,Chimarrogale himalayica,¤ôñç,II,v1080109,380580,380580,bf3f11ab-ffc4-4d05-a191-ca3f1a8dc493,259,species,,,
+Aix galericulata,Aix galericulata,ÀpÀm,II,v1080109,380056,380056,76ccc3a9-51b0-4cda-9685-f997e722569c,260,species,,,
+Anas formosa,Anas formosa,ªáÁyÀn(¤ÚÀn),II,v1080109,380062,380062,91f5fda8-7899-4f78-bb37-e5a2ed2db732,264,species,,,
+Aythya baeri,Aythya baeri,«CÀY¼çÀn,II,v1080109,380074,380074,88627d2d-13c6-4f89-976e-a31805d01c90,268,species,,,
+Glareola maldivarum,Glareola maldivarum,¿P?,III,v1080109,380162,380162,76f2ea3c-b88e-47ad-9f6c-63ee9c65405f,280,species,,,
+Hydrophasianus chirurgus,Hydrophasianus chirurgus,¤ô¹n(¹n§À¤ô¹n),II,v1080109,380163,380163,3ee45f50-97fe-4a84-b1a5-2e6d4d72c041,281,species,,,
+Rostratula benghalensis,Rostratula benghalensis,±møf,II,v1080109,420867,420867,1b04ac59-bdc7-4e72-ae92-ce0f56107787,282,species,,,
+Calidris canutus,Calidris canutus,¬õ¸¡ÀØøf,III,v1080109,1023790,,c4807bca-e6c0-4dfa-9ae3-3b3050e85a0d,284,species,,,
+Limosa limosa,Limosa limosa,¶Â§Àøf,III,v1080109,1024659,,ff6050fa-cdd6-4ed1-9fcc-b7669c86a1b5,285,species,,,
+Limnodromus semipalmatus,Limnodromus semipalmatus,¥bÃÚøf,III,v1080109,380230,380230,7ed678a8-0a45-462f-a17f-7e33832907be,286,species,,,
+Numenius arquata,Numenius arquata,¥Õ¸y¨@øf(¤j¨@øf),III,v1080109,1024943,,2a1632b8-e6a2-41da-a4ad-786a156068e0,287,species,,,
+Numenius madagascariensis,Numenius madagascariensis,¬õ¸y¨@øf,III,v1080109,380236,380236,e19c61df-0873-4e22-a25a-bbdfeacd1147,288,species,,,
+Tringa guttifer,Tringa guttifer,¿Õ¤óøf,I,v1080109,380248,380248,16f7a184-04b2-4511-923a-1a871fabf458,291,species,,,
+Calidris tenuirostris,Calidris tenuirostris,¤jÀØøf,III,v1080109,380222,380222,24b2424d-112c-4e12-8ee4-62d827a64693,292,species,,,
+Turnix sylvaticus,Turnix sylvaticus,ªL¤T³kÄL,III,v1080109,1025729,,962ba8ec-b2fd-4790-a327-1cbfae41ffba,293,species,,,
+Egretta eulophotes,Egretta eulophotes,­ğ¥ÕÆO,II,v1080109,380128,380128,f5dfc0e5-6e0e-49a6-8b5e-d1c17e8c246d,294,species,,,
+Gorsachius goisagi,Gorsachius goisagi,³ÂÆO,III,v1080109,380132,380132,6dffa02d-95b8-4d06-b509-dda361173a01,295,species,,,
+Ciconia boyciana,Ciconia boyciana,ªF¤è¥ÕÆ|,I,v1080109,404565,404565,8090520b-78f4-4b73-a3cc-177ce26e0b62,297,species,,,
+Ciconia nigra,Ciconia nigra,¶ÂÆ|,II,v1080109,380153,380153,29c72080-8d02-4c07-bda6-dddb6d6218b4,298,species,,,
+Nipponia nippon,Nipponia nippon,¦¶?,I,v1080109,380257,380257,0c97ee83-eb22-4e9f-bba9-6e23a7891727,305,species,,,
+Platalea leucorodia,Platalea leucorodia,¥Õµ\ÆO,II,v1080109,1025242,,bf45c9ae-3c37-41d5-932a-9699c65c3416,306,species,,,
+Platalea minor,Platalea minor,¶Â­±µ\ÆO,I,v1080109,380259,380259,11f17de2-5ee5-4c69-8672-06a46d4283f3,307,species,,,
+Threskiornis melanocephalus,Threskiornis melanocephalus,¶ÂÀY¥Õ?,II,v1080109,380260,380260,c7a9504f-cf0c-4dca-855f-c0fb46504bdd,308,species,,,
+Treron formosae,Treron formosae,¬õÀYºñ¹§,II,v1080109,1025693,,dc430885-79f2-4914-9380-ccad328bc246,313,species,,,
+Macropygia tenuirostris,Macropygia tenuirostris,ªø§À¹§,III,v1080109,1024716,,43ae38ec-0091-45b8-ab7d-a10d1d3cd430,314,species,,,
+Accipiter gularis,Accipiter gularis,¤é¥»ªQ³¶ÆN,II,v1080109,1023423,,41ce80a3-d156-4a32-8d50-cbd9938eb8cb,328,species,,,
+Accipiter nisus,Accipiter nisus,¥_³¶ÆN,II,v1080109,1023424,,a0a98d9d-fef5-47ac-afa8-a52cebadfb47,329,species,,,
+Accipiter soloensis,Accipiter soloensis,¨ª¸¡ÆN,II,v1080109,380099,380099,361a3560-d085-4fd2-b6f6-521f4c8049a5,330,species,,,
+Accipiter trivirgatus,Accipiter trivirgatus,»ñÀY»aÆN,II,v1080109,1023425,,c3d7eb24-c683-40c1-a077-93141d28ae33,331,species,,,
+Accipiter virgatus,Accipiter virgatus,ªQ³¶ÆN(³¶ÆN),II,v1080109,1023426,,828253a2-1f00-401b-b5c9-f3a37791600a,332,species,,,
+Butastur indicus,Butastur indicus,¦Ç­±ñÛÆN(¦Ç­±øl),II,v1080109,380105,380105,dff00aa5-f437-45cb-aefb-14ce0ecb9a75,335,species,,,
+Circus cyaneus,Circus cyaneus,¦Ç¿AñÛ(¦ÇÅc),II,v1080109,1023965,,70588a08-4194-4b68-83c5-451567799eb2,338,species,,,
+Circus melanoleucos,Circus melanoleucos,ªá¿AñÛ(ÄNÅc),II,v1080109,380109,380109,001e4cc4-f14f-4139-b015-cd5267d786cc,339,species,,,
+Circus spilonotus,Circus spilonotus,¿AñÛ(ªF¤è¿AñÛ¡BªF¤è¿AÅc) ,II,v1080109,1023966,,e72144b2-4d05-44c7-a93d-063fbae7c6e5,340,species,,,
+Elanus caeruleus,Elanus caeruleus,¶Â¯Í»ğ,II,v1080109,1024209,,ad5b2b40-aad1-43d5-8963-708d73adc98a,341,species,,,
+Haliaeetus albicilla,Haliaeetus albicilla,¥Õ§À®üóç,I,v1080109,421135,421135,f0c63a8c-a1f7-4163-9e34-c6e4c4327a50,342,species,,,
+Milvus migrans,Milvus migrans,¶Â»ğ(¦ÑÆN),II,v1080109,1024812,,3343e3a4-9f28-4f12-81c3-44853ece0b9c,345,species,,,
+Pandion haliaetus,Pandion haliaetus,³½ÆN,II,v1080109,1025068,,82702ec4-1655-4f43-83b8-cca275dad7d8,346,species,,,
+Pernis ptilorhynchus,Pernis ptilorhynchus,ªF¤è¸ÁÆN(¸ÁÆN¡BÀJÀYÆN),II,v1080109,1025168,,19b1cc22-5e72-4376-b878-eeea24879682,347,species,,,
+Spilornis cheela,Spilornis cheela,¤j«aøl,II,v1080109,1025516,,280c0c12-eb54-4c01-a10e-b7232b58de16,349,species,,,
+Nisaetus nipalensis,Nisaetus nipalensis,»®¤ó¨¤ÆN(ºµÆN),I,v1080109,1024929,,9401a1ca-328b-4645-8c6b-3578cfd7c1b8,350,species,,,
+Falco peregrinus,Falco peregrinus,¹CÔG(ÔG),II,v1080109,1024354,,6d15baa8-ebdc-48e6-b0e8-76836acbd62e,356,species,,,
+Falco subbuteo,Falco subbuteo,¿PÔG,II,v1080109,1024355,,01dce462-da11-40ac-93f7-05028587f1cf,359,species,,,
+Falco tinnunculus,Falco tinnunculus,¬õÔG,II,v1080109,1024356,,9f5661de-c843-4aae-9ac9-09c34263aef2,360,species,,,
+Arborophila crudigularis,Arborophila crudigularis,»OÆW¤sÅÂÀl(²`¤s¦ËÂû),III,v1080109,380285,380285,e17f3444-d8de-4a62-b4af-9888b58c4f93,368,species,,,
+Lophura swinhoii,Lophura swinhoii,ÂÅ¸¡øp,II,v1080109,380289,380289,ef457bab-7f1f-4313-8282-75084241c775,381,species,,,
+Phasianus colchicus,Phasianus colchicus,ÀôÀV¹n,II,v1080109,1025193,,0fb91a1c-ded5-47cc-882e-fba220e03c26,383,species,,,
+Grus japonensis,Grus japonensis,¤¦³»Åb,I,v1080109,380293,380293,bc2b5442-7a76-49bb-99a5-65631f2175fc,403,species,,,
+Grus monacha,Grus monacha,¥ÕÀYÅb,I,v1080109,380294,380294,943a9b58-5627-41a3-8794-ee25b5165d7c,405,species,,,
+Gallicrex cinerea,Gallicrex cinerea,¸³Âû,III,v1080109,380298,380298,e67a95bb-ad16-4e67-b2a8-d962efd5f30f,414,species,,,
+Coracina macei,Coracina macei,ªá¯Í¤s´Ô³¾,II,v1080109,1024015,,a0f13f22-2ae9-4d61-aede-8b6862fcf869,417,species,,,
+Urocissa caerulea,Urocissa caerulea,»OÆWÂÅÄN,III,v1080109,380336,380336,70840ef4-f982-4e5f-8691-2f7f961831e1,418,species,,,
+Emberiza sulphurata,Emberiza sulphurata,³¥?(Â¸²´?),II,v1080109,404581,404581,7d6d0434-7ed4-48d3-92bb-21dc1e5cb97c,422,species,,,
+Emberiza aureola,Emberiza aureola,ª÷?,II,v1080109,1024219,,1a8b7d76-debb-4ed3-abf1-5c5125b6025f,424,species,,,
+Lonchura atricapilla,Lonchura atricapilla,¶ÂÀY¤å³¾,III,v1080109,1024676,,f3d89a59-01a5-4c8a-bff2-12d103301bc8,430,species,,,
+Carpodacus formosanus,Carpodacus formosanus,»OÆW¦¶³¶,III,v1080109,425192,425192,9948f41b-fc69-4e6f-849e-e8c2dacd825f,433,species,,,
+Prunella collaris,Prunella collaris,©¥÷º,III,v1080109,1025318,,8d00d5b2-2fb7-49de-b53c-e7f0209ecbaf,434,species,,,
+Lanius cristatus,Lanius cristatus,¬õ§À§B³Ò,III,v1080109,1024598,,ff20ba0f-22a5-448f-b6ff-134434b50c84,437,species,,,
+Actinodura morrisoniana,Actinodura morrisoniana,¯¾Álµe¬Ü,III,v1080109,380455,380455,a28f4753-860e-4e48-a23c-7510f9e29bff,438,species,,,
+Garrulax canorus,Garrulax canorus,µe¬Ü,II,v1080109,1024395,,0b16d184-e6e6-4fcf-a1f5-2ddbd8ca43bd,439,species,,,
+Garrulax taewanus,Garrulax taewanus,»OÆWµe¬Ü,II,v1080109,404589,404589,f75d0c53-2b2c-4a20-aa79-d03c5f8a9fd3,440,species,,,
+Ianthocincla poecilorhyncha,Ianthocincla poecilorhyncha,´Ä¾¸¬Ü(¦Ë³¾),II,v1080109,428597,428597,a2882575-aa64-40f6-8988-2bd95dafd495,441,species,,,
+Ianthocincla ruficeps,Ianthocincla ruficeps,¥Õ³ï¾¸¬Ü(¥Õ³ï¯ºóğ),II,v1080109,428595,428595,3a87a4f1-eefd-4105-b95b-b9006b24ccdd,442,species,,,
+Liocichla steerii,Liocichla steerii,¶À¯İÃÁ¬Ü,III,v1080109,380468,380468,b3ebff46-3b98-4252-aaaf-5bb401ab46cd,444,species,,,
+Heterophasia auricularis,Heterophasia auricularis,¥Õ¦Õµe¬Ü,III,v1080109,380467,380467,84e5026b-061f-467f-8e4e-a38e7fb29026,445,species,,,
+Terpsiphone atrocaudata,Terpsiphone atrocaudata,µµ¹Ø±a(ºş±a³¾),II,v1080109,1025642,,4fe88bf7-7e84-4d82-bc5a-806cbcaff6e3,447,species,,,
+Enicurus scouleri,Enicurus scouleri,¤p°Å§À,II,v1080109,1024234,,dede6677-498b-4ecf-9cfd-7098ff3207b1,452,species,,,
+Niltava vivida,Niltava vivida,¶À¸¡¯[¼ş,III,v1080109,1024921,,61a4f693-98bf-428f-847d-2ed004f7cbaf,453,species,,,
+Phoenicurus fuliginosus,Phoenicurus fuliginosus,¹]¦â¤ôóğ,III,v1080109,1025204,,105e0a46-e9b2-4e6b-802b-df6b8504ec20,454,species,,,
+Tarsiger indicus,Tarsiger indicus,¥Õ¬ÜªLì©,III,v1080109,1025629,,f090cb1d-e3e0-476c-a170-d4d907510118,457,species,,,
+Tarsiger johnstoniae,Tarsiger johnstoniae,®ß­IªLì©,III,v1080109,419684,419684,2a938a10-e730-444a-93c2-93c753907c31,458,species,,,
+Oriolus chinensis,Oriolus chinensis,¶ÀùÏ,II,v1080109,1025011,,da97cd9a-686f-4f3b-94a9-1623ab914351,459,species,,,
+Oriolus traillii,Oriolus traillii,¦¶ùÏ,II,v1080109,1025012,,c6e1b358-4b60-4303-9e60-93d3076d76fb,460,species,,,
+Parus monticolus,Parus monticolus,ºñ­I¤s³¶(«C­I¤s³¶),III,v1080109,1025134,,45fa8681-3a7e-4a66-841b-7cf9da482b9e,463,species,,,
+Periparus ater,Periparus ater,·Ñ¤s³¶,III,v1080109,1025162,,6da20db4-9529-42c7-991d-b67f8e37a6be,464,species,,,
+Sittiparus castaneoventris,Sittiparus castaneoventris,¨ª¸¡¤s³¶,II,v1080109,432166,432166,b64554fc-0c0a-4ade-9e0d-5eb3cd84b0e7,465,species,,,
+Passer rutilans,Passer rutilans,¤s³Â³¶,I,v1080109,1025140,,50cdf9b2-217c-44e3-94a0-755d0810ffc3,466,species,,,
+Pitta nympha,Pitta nympha,¥P¤K¦âóğ(¤K¦â³¾),II,v1080109,380436,380436,26c84d6e-66bc-4928-842d-86774c26b317,470,species,,,
+Pycnonotus taivanus,Pycnonotus taivanus,¯QÀY¯Î,II,v1080109,380440,380440,0f4a4cbf-de63-43e0-bcaa-381c161c63e6,471,species,,,
+Regulus goodfellowi,Regulus goodfellowi,»OÆWÀ¹µâ(¤õ«aÀ¹µâ³¾),III,v1080109,380442,380442,fc9b6509-2981-4915-b09b-7d289bb4622b,473,species,,,
+Acridotheres cristatellus,Acridotheres cristatellus,¤K­ô,II,v1080109,1023443,,56db805c-faf5-417c-8d04-ae8f442ca622,474,species,,,
+Gracula religiosa,Gracula religiosa,¤E©x³¾,II,v1080109,419446,419446,94e11be7-aea5-4fb2-bdf4-ffd50423d3b7,475,species,,,
+Phylloscopus ijimae,Phylloscopus ijimae,¶º®q¬hÅa(¦ã¦N¬hÅa),III,v1080109,404634,404634,100a5f31-51f5-4c3b-a9c3-91c85bbe3849,477,species,,,
+Leiothrix argentauris,Leiothrix argentauris,»È¦Õ¬Û«ä³¾,II,v1080109,432360,432360,59e13b41-f852-4e9a-968a-97f2288802f0,478,species,,,
+Leiothrix lutea,Leiothrix lutea,¬õ¼L¬Û«ä³¾,II,v1080109,417886,417886,0d962ac3-9c74-446f-bfce-cc24461abf69,479,species,,,
+Turdus poliocephalus,Turdus poliocephalus,¥ÕÀYóğ,II,v1080109,1025725,,3f6ddcee-31b4-4af1-bd9b-01dc6b171118,480,species,,,
+Yuhina brunneiceps,Yuhina brunneiceps,«a¦Ğµe¬Ü,III,v1080109,380486,380486,2dc77ddb-7020-4701-b24f-7c548ca059c4,481,species,,,
+Dendrocopos leucotos,Dendrocopos leucotos,¤j¨ª°Ö¤ì,II,v1080109,1024117,,0cfc5f84-e36f-4eb0-b071-382adb17dce9,483,species,,,
+Picus canus,Picus canus,ºñ°Ö¤ì,II,v1080109,1025227,,138e3018-2c45-45d9-8cd4-99dd636d6f74,485,species,,,
+Cacatua alba,Cacatua alba,¥Õ»ñÀYÆxÄM,II,v1080109,419413,419413,632f098f-76bb-43c3-8b1f-b7da8fbd37c0,493,species,,,
+Cacatua galerita,Cacatua galerita,¸ªªá»ñÀYÆxÄM,II,v1080109,419414,419414,fd4b7847-e68c-443f-a7a5-ce7414e95767,494,species,,,
+Cacatua goffiniana,Cacatua goffiniana,¤àªâ¤ó»ñÀYÆxÄM,I,v1080109,419415,419415,f70b5c4f-b073-47c4-8ea5-a5489c5cf2e4,495,species,,,
+Cacatua moluccensis,Cacatua moluccensis,ÂD«aÆxÄM,I,v1080109,419416,419416,96d8481d-7748-4733-a64e-0e793321208f,498,species,,,
+Ara ararauna,Ara ararauna,ÂÅ¶Àª÷­èÆxÄM,II,v1080109,417958,417958,965f9a14-efab-470e-9e42-d035638c8daf,531,species,,,
+Psittacus erithacus,Psittacus erithacus,¦ÇÆxÄM,I,v1080109,417808,417808,c24cf121-0cdd-460a-94db-95ce58023e8a,561,species,,,
+Asio flammeus,Asio flammeus,µu¦Õì¦,II,v1080109,1023655,,e950df7d-5c0b-44cd-acd0-62e177f1aed1,568,species,,,
+Asio otus,Asio otus,ªø¦Õì¦,II,v1080109,1023656,,04ea905b-a40d-4e91-a7b7-3f7511129623,569,species,,,
+Glaucidium brodiei,Glaucidium brodiei,ï¢ö¿,II,v1080109,1024414,,71395c68-21ca-4ee6-9ebd-f696c9ebd842,570,species,,,
+Ketupa flavipes,Ketupa flavipes,¶À³½ì¦,II,v1080109,380500,380500,5f971330-67d7-4261-b0bc-08e2b3dc158f,572,species,,,
+Ninox japonica,Ninox japonica,½ÅÆNì¦,II,v1080109,1024923,,8f515304-fd5c-4841-b05f-8caab8268021,574,species,,,
+Otus lettia,Otus lettia,»â¨¤ì¦,II,v1080109,1025028,,49860672-4a66-4331-9640-5fe4734651ab,577,species,,,
+Otus spilocephalus,Otus spilocephalus,¶À¼L¨¤ì¦,II,v1080109,1025029,,9add3bef-0871-4552-bd18-7f6a254ad07d,578,species,,,
+Otus sunia,Otus sunia,ªF¤è¨¤ì¦,II,v1080109,1025030,,c1927c41-b4d2-4726-8614-e3f34a3dee51,579,species,,,
+Strix leptogrammica,Strix leptogrammica,½ÅªLì¦,II,v1080109,1025563,,b7b91dca-368e-4e07-9f87-f5ee35ca2dbe,580,species,,,
+Strix nivicolum,Strix nivicolum,ªF¤è¦ÇªLì¦(¦ÇªLì¦),II,v1080109,1025564,,a945b668-8e84-4a1f-af0e-d5c52adc515d,581,species,,,
+Tyto longimembris,Tyto longimembris,¯óì¦,I,v1080109,1025744,,a4ecadb1-8691-4853-9bcd-e136cabb6250,582,species,,,
+Japalura luei,Japalura luei,§f¤óÃk»h,II,v1080109,380622,380622,b4a0f603-12e1-4f0e-8560-450ed055fa09,604,species,,,
+Japalura makii,Japalura makii,ªª¤óÃk»h,II,v1080109,380623,380623,56fd8f78-9bf8-4197-8453-a2db4b817962,605,species,,,
+Dopasia harti,Dopasia harti,«¢¯S¤ó³D»h(³D»h¡B»OÆW³D»h),II,v1080109,380627,380627,6b3d895e-4eb2-45d2-b88d-a2d2342c8c6e,606,species,,,
+Gekko kikuchii,Gekko kikuchii,µâ¦À¤ó¾Àªê(ÄõÀ¬¦u®c¡Bµâ¦À¤óÓÈµğ),II,v1080109,380667,380667,b918cdac-a9ef-4f60-b396-d3cad83ef45c,624,species,,,
+Lepidodactylus yami,Lepidodactylus yami,¶®¬üÅì³kªê(¶®¬üÅì³kç²ªê),II,v1080109,380674,380674,6b9bc28a-2fce-4322-83bf-1020c36030a0,625,species,,,
+Takydromus sauteri,Takydromus sauteri,±ô¼w¤ó¯ó»h(«n»O¯ó»h),III,v1080109,380686,380686,dfcd02f0-bb59-43e0-b035-f72509ec1822,648,species,,,
+Amphiesma miyajimae,Amphiesma miyajimae,ª÷µ·³D,I,v1080109,380630,380630,00f89f81-f5dd-4593-b9cf-2fd5bd429694,669,species,,,
+Euprepiophis mandarinus,Euprepiophis mandarinus,°ª¬â³D,III,v1080109,427266,427266,dcdffc54-2f92-48ec-9543-c7f59f53d73f,674,species,,,
+Myrrophis chinensis,Myrrophis chinensis,­ğ¤ô³D,II ,v1080109,380642,380642,acffe805-822f-4fce-bfd8-fdd8bd096319,675,species,,,
+Rhabdophis swinhonis,Rhabdophis swinhonis,´µ¤å»¨¤ó´å³D,III,v1080109,380654,380654,4b1343f3-89a6-484f-bad3-76956a3776de,677,species,,,
+Sinonatrix annularis,Sinonatrix annularis,¨ª¸¡´å³D,II,v1080109,380657,380657,1638a432-d2fd-473f-bac2-5c1fe2a70c20,678,species,,,
+Xenochrophis piscator,Xenochrophis piscator,¯óªá³D,III,v1080109,380659,380659,b065f5f5-3bee-482b-9f1a-6015fcac5b19,679,species,,,
+Sinomicrurus hatori,Sinomicrurus hatori,¦Ğ³¾¤ó±a¯¾¨ª³D,II,v1080109,421733,421733,40357714-5163-42fb-a0b0-fae001cf30d4,692,species,,,
+Sinomicrurus macclellandi,Sinomicrurus macclellandi,Àô¯¾¨ª³D,III,v1080109,1025481,,6cd76c8f-05b6-497d-bbf4-505334c1beac,693,species,,,
+Sinomicrurus sauteri,Sinomicrurus sauteri,±ô¼w¤ó±a¯¾¨ª³D(±a¯¾¨ª³D),II,v1080109,421735,421735,fa0528e2-44f5-442e-93ec-782a6bdc6eca,694,species,,,
+Python reticulatus,Python reticulatus,ºô¯¾Á¯,II,v1080109,418194,418194,d4a4a2b6-f048-4c30-8c44-1988a7134784,696,species,,,
+Daboia siamensis,Daboia siamensis,Âê³D,II,v1080109,427241,427241,a26247d3-879c-4272-a5c8-504f54654f50,700,species,,,
+Deinagkistrodon acutus,Deinagkistrodon acutus,¦Ê¨B³D,II,v1080109,380702,380702,1e885a7c-5dfd-46f1-a141-658c4d403dbd,701,species,,,
+Ovophis monticola,Ovophis monticola,º¿®a¤sÀt´ßªá(ªü¨½¤sÀt´ßªá),II,v1080109,1025036,,37f0c327-4e6e-4dea-ba9f-61e3ea1da59e,702,species,,,
+Trimeresurus gracilis,Trimeresurus gracilis,µâ¦À¤óÀt´ßªá,III,v1080109,380704,380704,4cd602c8-af4c-4e47-b2af-f85e5c48218f,704,species,,,
+Cuora flavomarginata,Cuora flavomarginata,­¹³DÀt,I,v1080109,380611,380611,6e4ebaf6-7bcc-4962-9b76-6c03cca192f6,720,species,,,
+Mauremys japonica,Mauremys japonica,¤é¥»¥ÛÀt,II,v1080109,417641,417641,b09551a8-b711-4cde-bc58-444a41e633d7,734,species,,,
+Mauremys mutica,Mauremys mutica,®ã´ÃÀt,I,v1080109,380612,380612,4b94bfc5-86cf-4c04-a358-83da85980619,735,species,,,
+Mauremys reevesii,Mauremys reevesii,ª÷Àt,II,v1080109,380610,380610,a1148186-eaa1-482a-931f-7b26c9d96a7a,737,species,,,
+Babina okinavana,Babina okinavana,½İµ^µì,II,v1080109,416138,416138,127088ed-624d-415b-805b-42af0057f031,810,species,,,
+Hylarana taipehensis,Hylarana taipehensis,»O¥_¨ªµì,II,v1080109,416658,416658,2457ec2f-57ac-496f-b072-e0a310d77226,811,species,,,
+Pelophylax fukienensis,Pelophylax fukienensis,ª÷½uµì,III,v1080109,418420,418420,631a9f03-306f-4a24-b947-f20244505f4f,812,species,,,
+Rhacophorus arvalis,Rhacophorus arvalis,½ÑÃ¹¾ğµì,II,v1080109,380048,380048,24ac63cf-dc3f-4431-a176-1f9225c6a56a,813,species,,,
+Rhacophorus aurantiventris,Rhacophorus aurantiventris,¾í¸¡¾ğµì,II,v1080109,380049,380049,ea348cf4-0ae6-4eec-8556-5084d658982e,814,species,,,
+Rhacophorus prasinatus,Rhacophorus prasinatus,»B»A¾ğµì,III,v1080109,380051,380051,8ce5f221-61ad-4e5d-a084-5084d8c9b055,815,species,,,
+Rhacophorus taipeianus,Rhacophorus taipeianus,»O¥_¾ğµì,III,v1080109,380052,380052,3a7000ea-cb36-4995-8d90-7dcd37c51a34,816,species,,,
+Hynobius arisanensis,Hynobius arisanensis,ªü¨½¤s¤s´Ô³½,II,v1080109,380053,380053,00a2f8fd-ff08-4b5f-8d37-0880e7320587,818,species,,,
+Hynobius formosanus,Hynobius formosanus,»OÆW¤s´Ô³½,I,v1080109,380054,380054,53f81e9d-d079-42a1-a9f1-6fa6e96eaa52,819,species,,,
+Hynobius fuca,Hynobius fuca,Æ[Ãú¤s´Ô³½,I,v1080109,413087,413087,e8a89a66-cc57-454f-84ba-2cde6ac5fbd3,820,species,,,
+Hynobius glacialis,Hynobius glacialis,«n´ò¤s´Ô³½,I,v1080109,413088,413088,9610bea3-8a90-417e-9948-2fabb701fd7f,821,species,,,
+Hynobius sonani,Hynobius sonani,·¡«n¤ó¤s´Ô³½,I,v1080109,380055,380055,9ef5200b-f94b-4a6b-bdc8-e8a6ba6a548b,822,species,,,
+Hemimyzon taitungensis,Hemimyzon taitungensis,»OªF¶¡ª¦©¥ÄÏ,II,v1080109,380992,380992,bc1b317b-7389-4426-b00e-dc22a7667e2f,824,species,,,
+Sinogastromyzon nantaiensis,Sinogastromyzon nantaiensis,«n»O¤¤µØª¦©¥ÄÏ,III,v1080109,383544,383544,0c061ec6-8b80-4fed-b612-0d14da2bdee1,825,species,,,
+Sinogastromyzon puliensis,Sinogastromyzon puliensis,®H¨½¤¤µØª¦©¥ÄÏ,III,v1080109,380993,380993,a0ab15f4-6c18-4b96-91ba-8319b7894ef3,826,species,,,
+Metzia formosae,Metzia formosae,»OÆW±ö¤ó?(»OÆW²Ó?),III,v1080109,381023,381023,e49be715-553a-4e2c-844e-48337d474042,828,species,,,
+Metzia mesembrinum,Metzia mesembrinum,¤jÅì±ö¤ó?,III,v1080109,381024,381024,8364ec1e-f5a0-44bb-8a50-40d7b548fb52,829,species,,,
+Pararasbora moltrechti,Pararasbora moltrechti,»OÆW°Æ²ÓÃV(»OÆW¥Õ³½),II,v1080109,381020,381020,ba1431a7-f754-4687-88fc-cbae0450977d,830,species,,,
+Squalidus banarescui,Squalidus banarescui,¤Ú¤ó»Èì¢,I,v1080109,395247,395247,96674ae7-a4d8-4688-a0bf-3e15d0fd2191,832,species,,,
+Squalidus iijimae,Squalidus iijimae,¶º®q¤ó»Èì¢,I,v1080109,381028,381028,8ff1a9aa-7d0e-42dc-905e-feccb6a69c33,833,species,,,
+Liobagrus formosanus,Liobagrus formosanus,»OÆW¹_§kÂD,III,v1080109,382917,382917,895740ab-889c-498d-9e7e-61a09f69635a,836,species,,,
+Balaenoptera acutorostrata,Balaenoptera acutorostrata,¤pÅ½ÄH,I,v1080109,380528,380528,525d7081-7040-456a-8d28-53381a10dc44,902,species,,,
+Balaenoptera borealis,Balaenoptera borealis,?ÄH,I,v1080109,380529,380529,d33826dc-a761-4b8c-a17e-862a2a2492ee,904,species,,,
+Balaenoptera edeni,Balaenoptera edeni,õlÄH,I,v1080109,380530,380530,304b1453-92c5-43c5-a817-227bd9aeebd1,905,species,,,
+Balaenoptera musculus,Balaenoptera musculus,ÂÅÄH,I,v1080109,385002,385002,2425943a-2707-4def-bbfb-76db26e4d9f1,906,species,,,
+Balaenoptera omurai,Balaenoptera omurai,¤j§øÄH,I,v1080109,385001,385001,39c658e8-d46d-4ffb-bde5-3df040704793,907,species,,,
+Balaenoptera physalus,Balaenoptera physalus,ªø¶·ÄH,I,v1080109,380531,380531,e7e61480-ff22-42ef-8c55-ceaaef205e25,908,species,,,
+Megaptera novaeangliae,Megaptera novaeangliae,¤j¯ÍÄH,I,v1080109,380532,380532,6358b5a1-3a1b-4354-a9cb-72a77a7cb3eb,909,species,,,
+Sousa chinensis,Sousa chinensis,¤¤µØ¥Õ®ü³b,I,v1080109,380541,380541,c3b4ff09-9126-44a2-a420-35ddedb79369,914,species,,,
+Tursiops aduncus,Tursiops aduncus,¦L¤Ó²~»ó®ü³b,II,v1080109,380546,380546,9b6dbed3-9205-40f5-95f8-d36baa8c7ba4,915,species,,,
+Eschrichtius robustus,Eschrichtius robustus,¦ÇÄH,I,v1080109,380548,380548,75093e12-40f3-4467-8fdd-2c8bd127325a,917,species,,,
+Neophocaena phocaenoides,Neophocaena phocaenoides,¦¿³b(ÅS¯á¹«®ü³b),I,v1080109,380551,380551,fb177ad6-769a-42e3-995f-5594e899c76f,920,species,,,
+Anous stolidus,Anous stolidus,¥È¿PÅÃ,II,v1080109,1023581,,76f9f298-fd14-4242-8f51-c6a40783435d,930,species,,,
+Onychoprion anaethetus,Onychoprion anaethetus,¥Õ¬Ü¿PÅÃ,II,v1080109,1024993,,fd252b08-fce5-4cc0-a698-b25a01828184,932,species,,,
+Saundersilarus saundersi,Saundersilarus saundersi,¶Â¼LÅÃ,II,v1080109,419698,419698,e65826ad-5a8d-468b-aa5e-16df3c5038b8,933,species,,,
+Sterna dougallii,Sterna dougallii,¬õ¿PÅÃ(¯»¬õ¿PÅÃ),II,v1080109,1025543,,7559234a-62cd-4f7b-a6cb-313de3115a12,934,species,,,
+Sterna sumatrana,Sterna sumatrana,»a¿PÅÃ,II,v1080109,1025545,,c92ed9a7-3377-472f-87d5-c85ae940d1cc,935,species,,,
+Sternula albifrons,Sternula albifrons,¤p¿PÅÃ,II,v1080109,1025547,,492cb237-e66a-4af1-841c-58dcbdba08b1,936,species,,,
+Thalasseus bergii,Thalasseus bergii,»ñÀY¿PÅÃ,II,v1080109,1025652,,96507010-27ae-438b-bd64-0be53aa069dd,937,species,,,
+Thalasseus bernsteini,Thalasseus bernsteini,¶Â¼Lºİ»ñÀY¿PÅÃ,I,v1080109,419712,419712,1ede32c8-c430-4a8c-9763-44b1764d7055,938,species,,,
+Pelecanus crispus,Pelecanus crispus,¨÷¦ĞñÏõ|,I,v1080109,404624,404624,2f298d73-25c9-42e5-af37-e196f90bbf5a,941,species,,,
+Phoebastria albatrus,Phoebastria albatrus,µu§À«H¤Ñ¯Î,I,v1080109,404630,404630,4748e6b0-2087-4910-89ee-5a3f657b5369,942,species,,,
+Phoebastria nigripes,Phoebastria nigripes,¶Â¸}«H¤Ñ¯Î,I,v1080109,404632,404632,469ad59a-7986-42a8-8293-8b848394b243,943,species,,,
+Caretta caretta,Caretta caretta,¨ªø¿Àt,I,v1080109,380614,380614,9ca257ce-5c90-412c-9558-d0c692e65571,948,species,,,
+Chelonia mydas,Chelonia mydas,ºñø¿Àt,I,v1080109,380615,380615,9ceb18ee-2e88-40c6-84aa-079de58c2c6c,949,species,,,
+Eretmochelys imbricata,Eretmochelys imbricata,¬Å·è,I,v1080109,380616,380616,ecc9e451-b816-4792-bac6-983e5e633a71,950,species,,,
+Lepidochelys olivacea,Lepidochelys olivacea,ÆVø¿Àt,I,v1080109,380617,380617,82b23908-a037-4198-b8f2-9dc5197d8493,951,species,,,
+Dermochelys coriacea,Dermochelys coriacea,­²Àt(¸W¥ÖÀt),I,v1080109,380618,380618,1acef1e4-9f24-4f9c-8ab1-f4ded3437a5f,952,species,,,
+Cheilinus undulatus,Cheilinus undulatus,¦±¯¾®B³½(ªi¯¾®B³½¡BÀs¤ıÄK¡BÄ¬¬Ü³½),II,v1080109,381941,381941,bd2519a5-b5c5-47b0-bdc1-a0f825ad1f6e,956,species,,,
+Bolbometopon muricatum,Bolbometopon muricatum,¶©ÀYÆx­ô³½(¾m®p¤jÆx¼L³½),II,v1080109,382434,382434,139b096b-f585-4115-aa4c-8b7b81656ff3,957,species,,,
+Aegypius monachus,NA,NA,II,v1080109,380102,380102,382b65de-c823-4945-9a77-00bd707eeb94,NA,species,,,
+Aquila heliaca,Aquila heliacal,¥ÕªÓóç,I,v1080109,380104,380104,08dd93ce-8d46-44a9-92ba-8f4a5aec3cf1,334,species,,,
+Syrmaticus mikado,Syrmaticus mikado,¶Âªø§À¹n(«Ò¹n),II,v1080109,380291,380291,f99d359f-0dd5-4dbd-817e-a45c6d7b7efc,392,species,,,
+Feresa attenuata,NA,NA,II,v1080109,380534,380534,85ffeafa-7409-47d2-b6fe-9ea9034f4818,NA,species,,,
+Globicephala macrorhynchus,NA,NA,II,v1080109,380535,380535,02c914da-21c0-4d17-b67e-491defc98381,NA,species,,,
+Grampus griseus,NA,NA,II,v1080109,380536,380536,45a0d895-326c-4bca-8991-11347fff85bc,NA,species,,,
+Lagenodelphis hosei,NA,NA,II,v1080109,380537,380537,be1253ce-1c72-4d7b-ac74-936c9882a2ec,NA,species,,,
+Orcinus orca,NA,NA,II,v1080109,380538,380538,1b07f8fc-3ed8-4b63-80bf-f57556663cb8,NA,species,,,
+Peponocephala electra,NA,NA,II,v1080109,380539,380539,b1ea8557-7dfb-4cce-a3bc-bfc9d3dfa19b,NA,species,,,
+Pseudorca crassidens,NA,NA,II,v1080109,380540,380540,24dfe25f-2210-4085-b270-4b0c483d8c6e,NA,species,,,
+Stenella attenuata,NA,NA,II,v1080109,380542,380542,1f1f655d-1522-48bf-82ea-d0fc92c36d5b,NA,species,,,
+Stenella coeruleoalba,NA,NA,II,v1080109,380543,380543,adae1946-cffe-465a-a1fe-520915600c6e,NA,species,,,
+Stenella longirostris,NA,NA,II,v1080109,380544,380544,020aa3aa-b69b-4198-992a-8c8f8eede9c0,NA,species,,,
+Steno bredanensis,NA,NA,II,v1080109,380545,380545,4f7a7d42-eb80-4370-81e6-8da56c5c38e2,NA,species,,,
+Tursiops truncatus,Tursiops truncates,²~»ó®ü³b,II,v1080109,380547,380547,21a8c039-f798-4ead-9331-fb522862aeeb,916,species,,,
+Kogia breviceps,NA,NA,II,v1080109,380549,380549,ef7b7132-e20a-4b35-829a-b5b8512dac85,NA,species,,,
+Kogia sima,NA,NA,II,v1080109,380550,380550,dc3dfcea-e2d5-4d41-8575-1e04c9f4bbdb,NA,species,,,
+Physeter macrocephalus,Physeter microcephalus,©Ù­»ÄH,I,v1080109,380552,380552,40119379-861d-4e93-b566-e90901be88bd,922,species,,,
+Mesoplodon densirostris,NA,NA,II,v1080109,380554,380554,ce68a0a5-7884-4ccd-a227-3a1a3699d907,NA,species,,,
+Mesoplodon ginkgodens,NA,NA,II,v1080109,380555,380555,ba532919-8c78-44dd-9230-77524d89c913,NA,species,,,
+Ziphius cavirostris,NA,NA,II,v1080109,380556,380556,078b0a92-6948-46dd-a3d8-e3caad02401b,NA,species,,,
+Enhydris plumbea,Hypsiscopus plumbea ,¹]¦â¤ô³D,III,v1080109,380643,380643,d08669ba-8e9e-4d01-b96e-4265d17bc96d,673,species,,,
+Oncorhynchus formosanus,Oncorhynchus masou,Äåªá¹_§kÂD,I,v1080109,382788,382788,86411be4-c1f1-43b5-8750-fcdd950eed87,835,species,,,
+Delphinus delphis,NA,NA,II,v1080109,385000,385000,04ef2c54-9875-4bd0-af03-3734d0c18b1d,NA,species,,,
+Balaenoptera brydei,NA,NA,II,v1080109,385003,385003,4cc93fce-ba29-4d30-b74f-ea33c81ad83a,NA,species,,,
+Buteo hemilasius,NA,NA,II,v1080109,404551,404551,3cc98484-bbf2-4c57-9300-b04ffc39ba8d,NA,species,,,
+Falco amurensis,NA,NA,II,v1080109,404587,404587,4e54bc74-f434-4d74-92fc-9a032a415b8e,NA,species,,,
+Falco naumanni,NA,NA,II,v1080109,404588,404588,63363497-97d4-46bb-8e1a-aeaeafb68867,NA,species,,,
+Prionailurus bengalensis,Prionailurus bengalensis euptilurus ,¥Ûªê,I,v1080109,416107,416107,96acaa9b-0412-4853-8168-fccd12166426,105,infraspecies,,,
+Rousettus leschenaultii,NA,NA,II,v1080109,416110,416110,14d0933d-08f2-403c-83d6-96c8479ec3f7,NA,species,,,
+Geochelone elegans,NA,NA,II,v1080109,417722,417722,d172ef75-341a-412e-a8c4-9aefbe0b9637,NA,species,,,
+Paroaria coronata,Paroaria coronate,«a¬õÄú¼L?,II,v1080109,417867,417867,926dab31-c7de-4084-be50-12de35254405,426,species,,,
+Indotestudo elongata,NA,NA,II,v1080109,418130,418130,23e7cfbb-7342-496e-8223-969a3790dd54,NA,species,,,
+Anthropoides virgo,NA,NA,II,v1080109,419631,419631,64c27564-4e73-4b44-a4a5-0b12738808ba,NA,species,,,
+Grus grus,NA,NA,II,v1080109,420877,420877,d4f1d790-c3e0-43cd-83ba-9fb0afdf5b64,NA,species,,,
+Delphinus capensis,NA,NA,II,v1080109,427142,427142,3293542b-82c4-4173-98a7-1a7a8079a8e1,NA,species,,,
+Clanga clanga,NA,NA,II,v1080109,427287,427287,3fae360a-23ea-45ef-827a-4c7af654fe69,NA,species,,,
+Haliaeetus leucogaster,NA,NA,II,v1080109,428071,428071,b6df16d7-59fa-4d02-bb4b-905d2dd69c5f,NA,species,,,
+Calidris pygmea,Calidris pygmaea,µ\¼Løf,II,v1080109,428564,428564,18a01f7a-54bc-4a9e-bcb4-1ced9de8eb9d,283,species,,,
+Ichthyaetus relictus,Larus relictus,¿òÅÃ,I,v1080109,428568,428568,283a16c1-47fd-4221-a221-d52e575766ee,931,species,,,
+Balaenoptera taiwanica,NA,NA,II,v1080109,430503,430503,a225e20b-9a77-4033-b833-fc8db006fdec,NA,species,,,
+Synoicus chinensis,Coturnix chinensis,ÂÅ¯İÄL(¹¥¾i«¬°£¥~),II,v1080109,431229,431229,edb3f65e-d359-49d5-8a9c-67953e89172b,372,species,,,
+Indopacetus  pacificus,NA,NA,II,v1080109,432102,432102,c58ca8a2-6d29-4185-90f0-5229b0019719,NA,species,,,
+Leucogeranus leucogeranus,Grus leucogeranus,¥ÕÅb,I,v1080109,432194,432194,251368bf-574e-4e61-8fff-b77abe6f4370,404,species,,,
+Antigone vipio,Grus vipio,¥ÕªEÅb,I,v1080109,432195,432195,a9182b3e-5cb1-4c28-932d-26b9a7eb62db,407,species,,,
+Machlolophus holsti,Macholophus holsti,¶À¤s³¶,II,v1080109,432368,432368,ccab507a-b6e1-4063-9252-9c9318aaf524,462,species,,,
+Accipiter badius,NA,NA,II,v1080109,1023421,,20363a3c-1e5c-4162-a830-67fe4e451174,NA,species,,,
+Accipiter gentilis,NA,NA,II,v1080109,1023422,,5a00f75f-2e53-4c6d-b55a-884f1ce64770,NA,species,,,
+Aquila fasciata,NA,NA,II,v1080109,1023625,,c0ea178e-5629-4e72-9a26-d31954e6a982,NA,species,,,
+Athene noctua,NA,NA,II,v1080109,1023666,,2fdeee3e-f5ea-46ba-bb77-aed6c8bb3d93,NA,species,,,
+Aviceda leuphotes,NA,NA,II,v1080109,1023692,,7e1b0fb8-65f9-4642-870c-b868e2143e72,NA,species,,,
+Bubo bubo,NA,NA,II,v1080109,1023759,,2fdb32ef-9f2f-4066-8e35-3a3bbef0855d,NA,species,,,
+Buteo japonicus,NA,NA,II,v1080109,1023768,,27fbbbb9-e533-4c9b-a9a1-1e7dedf64715,NA,species,,,
+Buteo lagopus,NA,NA,II,v1080109,1023769,,88f50e88-227f-4ef4-984c-8ed45ce8cb85,NA,species,,,
+Falco columbarius,NA,NA,II,v1080109,1024353,,5221702c-9898-43a6-95a2-d6bc95512a9c,NA,species,,,
+Haliastur indus,NA,NA,II,v1080109,1024454,,8e478be4-8d55-43c8-8060-a4819382ba8b,NA,species,,,
+Ictinaetus malaiensis,NA,NA,II,v1080109,1024552,,b2350fcd-44ae-4faf-9777-0e08342613fc,NA,species,,,
+Manis pentadactyla,NA,NA,II,v1080109,1024731,,12893a44-eca8-44a1-955f-970705f53bc4,NA,species,,,
+Mustela nivalis,NA,NA,III,v1080109,1024853,,1b2bd256-b844-4cb6-bc52-8b377c08ba22,NA,species,,,
+Orthriophis taeniurus,Elaphe taeniura ,¶Â¬ÜÀA³D(ÀA³D),III,v1080109,1025024,,a0624436-a49d-457c-b491-dc61406d49c3,676,species,,,
+Otus elegans,NA,NA,II,v1080109,1025027,,11ac79d8-844c-431d-922b-fda00fa39e52,NA,species,,,
+Pteropus dasymallus,NA,NA,I,v1080109,1025365,,52de4e15-0819-4346-bd73-505256a30d9e,NA,species,,,
+Rusa unicolor,NA,NA,III,v1080109,1025423,,ec16b5e7-3bc6-48e1-99e3-fe071331a48e,NA,species,,,
