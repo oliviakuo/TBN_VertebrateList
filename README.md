@@ -19,7 +19,8 @@ taibnet_namecode|台灣物種名錄(TaiCoL)之物種識別碼
 uuid|台灣生物多樣性網絡(TBN)使用之流水號
 protect species list number|林務局保育類名錄物種編號
 rank|分類階層(包含order目/family科/genus屬/species種/infraspecies種下)
-  
+
+  *分類階層為Scientific name_PSL林務局公告之保育類名錄使用學名之分類階層
   *本名錄保育類等級參考行政院農業委員會108年1月9日公告修正之保育類名錄protected_species list.csv<br />
 
 ***
