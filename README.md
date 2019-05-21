@@ -22,7 +22,7 @@ protect species list number|保育類名錄物種編號
 rank_PSL|保育類名錄分類階層(包含species種/infraspecies種下)
 
   *本名錄保育類等級參考行政院農業委員會108年1月9日公告修正之保育類名錄protected_species list.csv<br />
-  *保育類名錄protected_species list.csv含海洋保育類野生動物
+  *保育類名錄protected_species list.csv含海洋保育類野生動物及無脊椎保育類野生動物
 
 ***
 
