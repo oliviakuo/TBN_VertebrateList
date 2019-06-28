@@ -22,7 +22,8 @@ protect species list number|保育類名錄物種編號
 rank_PSL|保育類名錄分類階層(包含species種/infraspecies種下)
 
   *本名錄保育類等級參考行政院農業委員會108年1月9日公告修正之保育類名錄01_protected_species_list.txt<br />
-  *保育類名錄01_protected_species_list.txt含海洋保育類野生動物及無脊椎保育類野生動物
+  *保育類名錄01_protected_species_list.txt含海洋保育類野生動物及無脊椎保育類野生動物<br />
+  ***所有檔案另於TBN_VertebrateList_xlsx提供相同檔案之.xlsx檔**
 
 ***
 
@@ -56,7 +57,8 @@ uuid|TBN使用之流水號
 
   *本名錄台灣紅皮書評估等級參考行政院農業委員會特有生物研究中心及行政院農業委員會林務局發行之2016台灣紅皮書名錄 02_Taiwan_redlist.txt<br />
   *若台灣紅皮書給予等級為種則包含此種之亞種同時給予等級；若台灣紅皮書給予等級為亞種則只針對亞種紀錄紅皮書等級<br />
-  *台灣紅皮書名錄 02_Taiwan_redlist.txt含植物紅皮書名錄
+  *台灣紅皮書名錄 02_Taiwan_redlist.txt含植物紅皮書名錄<br />
+  ***所有檔案另於TBN_VertebrateList_xlsx提供相同檔案之.xlsx檔**
 
 ***
 
@@ -85,6 +87,7 @@ rank|TBN分類階層(包含species種/infraspecies種下)
   
   
   *本名錄國際自然保護聯盟(IUCN)評估等級參考IUCN國際紅皮書03_iucn_redlist.txt<br />
+  ***所有檔案另於TBN_VertebrateList_xlsx提供相同檔案之.xlsx檔**
 
 
 ***
@@ -117,6 +120,8 @@ name_c|種中文名
 is_endemic|是否為特有種
 is_alien|是否為外來種
 is_protected|是否為保育類物種
+
+***所有檔案另於TBN_VertebrateList_xlsx提供相同檔案之.xlsx檔**
 
 
   
