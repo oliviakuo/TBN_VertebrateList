@@ -117,9 +117,6 @@ genus|屬
 genus_c|屬中文名
 name|種
 name_c|種中文名
-is_endemic|是否為特有種
-is_alien|是否為外來種
-is_protected|是否為保育類物種
 
 ***所有檔案另於TBN_VertebrateList_xlsx提供相同檔案之.xlsx檔**
 
