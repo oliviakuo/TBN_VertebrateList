@@ -93,7 +93,7 @@ rank|TBN分類階層(包含species種/infraspecies種下)
 ***
 
 
-# 04_台灣生物多樣性網絡(TBN)陸域脊椎動物物種名錄
+# 04_台灣生物多樣性網絡(TBN)脊椎動物物種名錄
   
   **Version logs** <br />
   v1.0 20190318 <br />
