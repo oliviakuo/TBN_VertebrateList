@@ -117,6 +117,9 @@ genus|屬
 genus_c|屬中文名
 name|種
 name_c|種中文名
+parent_uuid|該分類群之上階分類群的TBN流水號
+endemism|該分類群之特有屬性(0/1)
+alien|該分類群之外來種屬性(0/1)
 
 ***所有檔案另於TBN_VertebrateList_xlsx提供相同檔案之.xlsx檔**
 
