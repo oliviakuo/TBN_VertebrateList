@@ -120,6 +120,9 @@ name_c|種中文名
 parent_uuid|該分類群之上階分類群的TBN流水號
 endemism|該分類群之特有屬性(0/1)
 alien|該分類群之外來種屬性(0/1)
+category_IUCN|IUCN國際紅皮書分類等級(CR/DD/EN/LC/NT/VU)
+category_TaiwanRedlist|台灣紅皮書分類等級(NCR/NDD/NEN/NEX/NLC/NNT/NRE/NVU)
+protected_status|保育類等級(I/II/III)
 
 ***所有檔案另於TBN_VertebrateList_xlsx提供相同檔案之.xlsx檔**
 
